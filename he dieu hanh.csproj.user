@@ -7,9 +7,6 @@
     <Compile Update="Pages\PageDashboard.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Update="Pages\PageEventLog.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
     <Compile Update="Pages\PageSettings.cs">
       <SubType>UserControl</SubType>
     </Compile>

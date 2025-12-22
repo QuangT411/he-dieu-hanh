@@ -15,6 +15,15 @@ namespace he_dieu_hanh.Pages
         private Label lblTitle;
         private TableLayoutPanel tlpContent;
 
+        // Label để hiển thị tổng số event (có thể cập nhật)
+        private Label? lblTotalEventsValue;
+        private Label? lblRecordingStatusValue;
+        private Label? lblDurationValue;
+        private Label? lblDistributionValue;
+        
+        // Timer để cập nhật số liệu
+        private System.Windows.Forms.Timer? updateTimer;
+
         public PageDashboard()
         {
             this.Dock = DockStyle.Fill;
@@ -82,20 +91,20 @@ namespace he_dieu_hanh.Pages
             // --- THÊM CÁC CHỈ SỐ (PLACEHOLDERS) ---
 
             // Ô 1: Trạng thái Ghi log
-            tlpContent.Controls.Add(
-                CreateSimpleMetricCard("Trạng thái Ghi Log", "⏸️ PAUSED", "Placeholder: Logic ghi log đã dừng", AccentColor2), 0, 0);
+            var statusCard = CreateSimpleMetricCard("Trạng thái Ghi Log", "⏸️ PAUSED", "Trạng thái: Đang chờ", AccentColor2, out lblRecordingStatusValue);
+            tlpContent.Controls.Add(statusCard, 0, 0);
 
             // Ô 2: Tổng số Sự kiện
-            tlpContent.Controls.Add(
-                CreateSimpleMetricCard("Tổng số Sự kiện", "---", "Placeholder: Tổng sự kiện Mouse và Keyboard", PrimaryColor_Static), 1, 0);
+            var eventsCard = CreateSimpleMetricCard("Tổng số Sự kiện", "0", "Tổng sự kiện Mouse và Keyboard đã ghi", PrimaryColor_Static, out lblTotalEventsValue);
+            tlpContent.Controls.Add(eventsCard, 1, 0);
 
             // Ô 3: Thời gian hoạt động
             tlpContent.Controls.Add(
-                CreateSimpleMetricCard("Thời gian Hook", "N/A", "Placeholder: Thời gian ghi log hoạt động gần nhất", PrimaryColor_Static), 0, 1);
+                CreateSimpleMetricCard("Thời gian Hook", "00:00:00", "Thời gian ghi log hoạt động gần nhất", PrimaryColor_Static, out lblDurationValue), 0, 1);
 
             // Ô 4: Phân phối Sự kiện
             tlpContent.Controls.Add(
-                CreateSimpleMetricCard("Phân phối Log", "[PLACEHOLDER]", "Placeholder: Biểu đồ đơn giản Mouse và Key", AccentColor1), 1, 1);
+                CreateSimpleMetricCard("Phân phối Log", "M: 0 | K: 0", "Mouse (M) | Keyboard (K)", AccentColor1, out lblDistributionValue), 1, 1);
 
 
             pnlBody.Controls.Add(tlpContent);
@@ -103,13 +112,72 @@ namespace he_dieu_hanh.Pages
             tlpMain.Controls.Add(pnlBody, 0, 1);
 
             this.Controls.Add(tlpMain);
+            
+            // Khởi tạo timer để cập nhật số liệu
+            updateTimer = new System.Windows.Forms.Timer();
+            updateTimer.Interval = 500; // Cập nhật mỗi 500ms
+            updateTimer.Tick += UpdateTimer_Tick;
+            updateTimer.Start();
+        }
+
+        // Cập nhật số liệu từ EventLogger
+        private void UpdateTimer_Tick(object? sender, EventArgs e)
+        {
+            // Cập nhật tổng số events
+            int totalEvents = EventLogger.TotalEventCount;
+            if (lblTotalEventsValue != null)
+            {
+                lblTotalEventsValue.Text = totalEvents.ToString("N0");
+            }
+            
+            // Cập nhật trạng thái recording
+            if (lblRecordingStatusValue != null)
+            {
+                if (EventLogger.IsRecording)
+                {
+                    lblRecordingStatusValue.Text = "🔴 REC";
+                    lblRecordingStatusValue.ForeColor = AccentColor2;
+                }
+                else
+                {
+                    lblRecordingStatusValue.Text = "⏸️ PAUSED";
+                    lblRecordingStatusValue.ForeColor = Color.Gray;
+                }
+            }
+
+            // Cập nhật thời gian record
+            if (lblDurationValue != null)
+            {
+                TimeSpan duration;
+                if (EventLogger.IsRecording)
+                {
+                    duration = DateTime.Now - EventLogger.RecordingStartTime;
+                }
+                else
+                {
+                    duration = EventLogger.RecordingDuration;
+                }
+                lblDurationValue.Text = duration.ToString(@"hh\:mm\:ss");
+            }
+
+            // Cập nhật phân phối log
+            if (lblDistributionValue != null)
+            {
+                int totalKeyboard = EventLogger.KeyDownCount + EventLogger.KeyUpCount;
+                lblDistributionValue.Text = $"M: {EventLogger.MouseEventsCount} | K: {totalKeyboard}";
+                // Giảm font size nếu text quá dài
+                if (lblDistributionValue.Text.Length > 15) 
+                    lblDistributionValue.Font = new Font("Segoe UI", 24, FontStyle.Bold);
+                else
+                    lblDistributionValue.Font = new Font("Segoe UI", 36, FontStyle.Bold);
+            }
         }
 
         // =================================================================
         // HÀM TẠO CARD (CÓ THỂ XỬ LÝ THEME)
         // =================================================================
 
-        private Panel CreateSimpleMetricCard(string title, string value, string description, Color color)
+        private Panel CreateSimpleMetricCard(string title, string value, string description, Color color, out Label? lblValueRef)
         {
             // Panel bên ngoài (chỉ để giữ padding và màu nền chung)
             var pnl = new Panel()
@@ -154,6 +222,9 @@ namespace he_dieu_hanh.Pages
                 TextAlign = ContentAlignment.MiddleCenter,
             };
             tlpCard.Controls.Add(lblValue, 0, 1);
+            
+            // Trả về reference của label value
+            lblValueRef = lblValue;
 
             // 3. Mô tả
             var lblDescription = new Label()

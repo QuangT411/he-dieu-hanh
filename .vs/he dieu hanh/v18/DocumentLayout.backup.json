@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hlk9\\Downloads\\Phone Link\\he-dieu-hanh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0C038B-7449-4919-9481-AC96DF78F1EC}|he dieu hanh.csproj|c:\\users\\hlk9\\downloads\\phone link\\he-dieu-hanh\\pages\\pagedashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0C038B-7449-4919-9481-AC96DF78F1EC}|he dieu hanh.csproj|solutionrelative:pages\\pagedashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0C038B-7449-4919-9481-AC96DF78F1EC}|he dieu hanh.csproj|c:\\users\\hlk9\\downloads\\phone link\\he-dieu-hanh\\pages\\pageeventlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0C038B-7449-4919-9481-AC96DF78F1EC}|he dieu hanh.csproj|solutionrelative:pages\\pageeventlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0C038B-7449-4919-9481-AC96DF78F1EC}|he dieu hanh.csproj|c:\\users\\hlk9\\downloads\\phone link\\he-dieu-hanh\\pages\\pageeventlog.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0C038B-7449-4919-9481-AC96DF78F1EC}|he dieu hanh.csproj|solutionrelative:pages\\pageeventlog.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0C038B-7449-4919-9481-AC96DF78F1EC}|he dieu hanh.csproj|C:\\Users\\hlk9\\Downloads\\Phone Link\\he-dieu-hanh\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F0C038B-7449-4919-9481-AC96DF78F1EC}|he dieu hanh.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PageDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hlk9\\Downloads\\Phone Link\\he-dieu-hanh\\Pages\\PageDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Pages\\PageDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\hlk9\\Downloads\\Phone Link\\he-dieu-hanh\\Pages\\PageDashboard.Designer.cs",
+              "RelativeToolTip": "Pages\\PageDashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T19:32:36.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PageEventLog.cs",
+              "DocumentMoniker": "C:\\Users\\hlk9\\Downloads\\Phone Link\\he-dieu-hanh\\Pages\\PageEventLog.cs",
+              "RelativeDocumentMoniker": "Pages\\PageEventLog.cs",
+              "ToolTip": "C:\\Users\\hlk9\\Downloads\\Phone Link\\he-dieu-hanh\\Pages\\PageEventLog.cs",
+              "RelativeToolTip": "Pages\\PageEventLog.cs",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAAACEBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T19:02:36.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PageEventLog.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hlk9\\Downloads\\Phone Link\\he-dieu-hanh\\Pages\\PageEventLog.Designer.cs",
+              "RelativeDocumentMoniker": "Pages\\PageEventLog.Designer.cs",
+              "ToolTip": "C:\\Users\\hlk9\\Downloads\\Phone Link\\he-dieu-hanh\\Pages\\PageEventLog.Designer.cs",
+              "RelativeToolTip": "Pages\\PageEventLog.Designer.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:20:56.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hlk9\\Downloads\\Phone Link\\he-dieu-hanh\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\hlk9\\Downloads\\Phone Link\\he-dieu-hanh\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:00:21.04Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
