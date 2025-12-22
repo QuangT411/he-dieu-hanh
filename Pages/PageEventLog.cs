@@ -9,7 +9,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
-using Gma.System.MouseKeyHook;
+using System.Diagnostics;
 
 namespace he_dieu_hanh.Pages
 {
@@ -32,8 +32,77 @@ namespace he_dieu_hanh.Pages
 
         private Button btnStartRecord, btnStopRecord, btnSaveLog, btnLoadLog, btnClearLog, btnReplayAll;
 
-        // Windows Hook API
-        private IKeyboardMouseEvents? globalHook;
+        // Windows Hook API (Native)
+        private const int WH_KEYBOARD_LL = 13;
+        private const int WH_MOUSE_LL = 14;
+        private static IntPtr _hookIDKeyboard = IntPtr.Zero;
+        private static IntPtr _hookIDMouse = IntPtr.Zero;
+        private LowLevelKeyboardProc _procKeyboard;
+        private LowLevelMouseProc _procMouse;
+
+        private delegate IntPtr LowLevelKeyboardProc(int nCode, IntPtr wParam, IntPtr lParam);
+        private delegate IntPtr LowLevelMouseProc(int nCode, IntPtr wParam, IntPtr lParam);
+
+        [DllImport("user32.dll", CharSet = CharSet.Auto, SetLastError = true)]
+        private static extern IntPtr SetWindowsHookEx(int idHook, LowLevelKeyboardProc lpfn, IntPtr hMod, uint dwThreadId);
+
+        [DllImport("user32.dll", CharSet = CharSet.Auto, SetLastError = true)]
+        private static extern IntPtr SetWindowsHookEx(int idHook, LowLevelMouseProc lpfn, IntPtr hMod, uint dwThreadId);
+
+        [DllImport("user32.dll", CharSet = CharSet.Auto, SetLastError = true)]
+        [return: MarshalAs(UnmanagedType.Bool)]
+        private static extern bool UnhookWindowsHookEx(IntPtr hhk);
+
+        [DllImport("user32.dll", CharSet = CharSet.Auto, SetLastError = true)]
+        private static extern IntPtr CallNextHookEx(IntPtr hhk, int nCode, IntPtr wParam, IntPtr lParam);
+
+        [DllImport("kernel32.dll", CharSet = CharSet.Auto, SetLastError = true)]
+        private static extern IntPtr GetModuleHandle(string lpModuleName);
+
+        // Hook Structs
+        [StructLayout(LayoutKind.Sequential)]
+        private struct POINT
+        {
+            public int x;
+            public int y;
+        }
+
+        [StructLayout(LayoutKind.Sequential)]
+        private struct MSLLHOOKSTRUCT
+        {
+            public POINT pt;
+            public uint mouseData;
+            public uint flags;
+            public uint time;
+            public IntPtr dwExtraInfo;
+        }
+
+        [StructLayout(LayoutKind.Sequential)]
+        private struct KBDLLHOOKSTRUCT
+        {
+            public uint vkCode;
+            public uint scanCode;
+            public uint flags;
+            public uint time;
+            public IntPtr dwExtraInfo;
+        }
+
+        // Mouse Constants
+        private const int WM_LBUTTONDOWN = 0x0201;
+        private const int WM_LBUTTONUP = 0x0202;
+        private const int WM_MOUSEMOVE = 0x0200;
+        private const int WM_MOUSEWHEEL = 0x020A;
+        private const int WM_RBUTTONDOWN = 0x0204;
+        private const int WM_RBUTTONUP = 0x0205;
+        private const int WM_MBUTTONDOWN = 0x0207;
+        private const int WM_MBUTTONUP = 0x0208;
+
+        // Keyboard Constants
+        private const int WM_KEYDOWN = 0x0100;
+        private const int WM_KEYUP = 0x0101;
+        private const int WM_SYSKEYDOWN = 0x0104;
+        private const int WM_SYSKEYUP = 0x0105;
+
         private bool isRecording = false;
         private DateTime recordingStartTime;
         private List<RecordedEvent> recordedEvents = new List<RecordedEvent>();
@@ -492,18 +561,11 @@ namespace he_dieu_hanh.Pages
             lastEvent = null;
             dgvEvents.Rows.Clear();
 
-            // Subscribe to global hooks
-            globalHook = Hook.GlobalEvents();
-
-            // Mouse events
-            globalHook.MouseDown += GlobalHook_MouseDown;
-            globalHook.MouseUp += GlobalHook_MouseUp;
-            globalHook.MouseMove += GlobalHook_MouseMove;
-            globalHook.MouseWheel += GlobalHook_MouseWheel;
-
-            // Keyboard events
-            globalHook.KeyDown += GlobalHook_KeyDown;
-            globalHook.KeyUp += GlobalHook_KeyUp;
+            // Install Hooks
+            _procKeyboard = HookCallbackKeyboard;
+            _procMouse = HookCallbackMouse;
+            _hookIDKeyboard = SetHook(_procKeyboard);
+            _hookIDMouse = SetHook(_procMouse);
 
             btnStartRecord.Enabled = false;
             btnStopRecord.Enabled = true;
@@ -518,8 +580,12 @@ namespace he_dieu_hanh.Pages
             isRecording = false;
             EventLogger.IsRecording = false;
             EventLogger.RecordingDuration = DateTime.Now - EventLogger.RecordingStartTime;
-            globalHook?.Dispose();
-            globalHook = null;
+            
+            // Uninstall Hooks
+            UnhookWindowsHookEx(_hookIDKeyboard);
+            UnhookWindowsHookEx(_hookIDMouse);
+            _hookIDKeyboard = IntPtr.Zero;
+            _hookIDMouse = IntPtr.Zero;
 
             btnStartRecord.Enabled = true;
             btnStopRecord.Enabled = false;
@@ -530,6 +596,24 @@ namespace he_dieu_hanh.Pages
             LoadEventsToGrid();
 
             lblStatus.Text = $"Status: Recording stopped. {recordedEvents.Count} events recorded.";
+        }
+
+        private IntPtr SetHook(LowLevelKeyboardProc proc)
+        {
+            using (Process curProcess = Process.GetCurrentProcess())
+            using (ProcessModule curModule = curProcess.MainModule)
+            {
+                return SetWindowsHookEx(WH_KEYBOARD_LL, proc, GetModuleHandle(curModule.ModuleName), 0);
+            }
+        }
+
+        private IntPtr SetHook(LowLevelMouseProc proc)
+        {
+            using (Process curProcess = Process.GetCurrentProcess())
+            using (ProcessModule curModule = curProcess.MainModule)
+            {
+                return SetWindowsHookEx(WH_MOUSE_LL, proc, GetModuleHandle(curModule.ModuleName), 0);
+            }
         }
 
         private void RecordEvent(string eventType, Dictionary<string, object> data)
@@ -583,121 +667,78 @@ namespace he_dieu_hanh.Pages
             }
         }
 
-        // Mouse event handlers
-        private void GlobalHook_MouseDown(object? sender, MouseEventArgs e)
+        // Hook Callbacks
+        private IntPtr HookCallbackKeyboard(int nCode, IntPtr wParam, IntPtr lParam)
         {
-            string button = e.Button switch
+            if (nCode >= 0 && (wParam == (IntPtr)WM_KEYDOWN || wParam == (IntPtr)WM_SYSKEYDOWN || wParam == (IntPtr)WM_KEYUP || wParam == (IntPtr)WM_SYSKEYUP))
             {
-                MouseButtons.Left => "Left",
-                MouseButtons.Right => "Right",
-                MouseButtons.Middle => "Middle",
-                _ => "Unknown"
-            };
+                int vkCode = Marshal.ReadInt32(lParam);
+                Keys key = (Keys)vkCode;
+                bool isDown = (wParam == (IntPtr)WM_KEYDOWN || wParam == (IntPtr)WM_SYSKEYDOWN);
 
-            var pos = Cursor.Position;
-            RecordEvent("MouseDown", new Dictionary<string, object>
-            {
-                { "Button", button },
-                { "X", pos.X },
-                { "Y", pos.Y }
-            });
-        }
+                // Handle Pause key during replay
+                if (isReplaying && isDown && key == Keys.P)
+                {
+                     isPaused = !isPaused;
+                     string statusMsg = isPaused ? "Status: Replay PAUSED (Press P to resume)" : "Status: Replaying...";
+                     if (this.InvokeRequired) this.BeginInvoke(new Action(() => lblStatus.Text = statusMsg));
+                     else lblStatus.Text = statusMsg;
+                     return (IntPtr)1; // Handled
+                }
 
-        private void GlobalHook_MouseUp(object? sender, MouseEventArgs e)
-        {
-            string button = e.Button switch
-            {
-                MouseButtons.Left => "Left",
-                MouseButtons.Right => "Right",
-                MouseButtons.Middle => "Middle",
-                _ => "Unknown"
-            };
+                if (isRecording)
+                {
+                    // Filter Windows keys
+                    if (key == Keys.LWin || key == Keys.RWin) return (IntPtr)1;
 
-            var pos = Cursor.Position;
-            RecordEvent("MouseUp", new Dictionary<string, object>
-            {
-                { "Button", button },
-                { "X", pos.X },
-                { "Y", pos.Y }
-            });
-        }
+                    var data = new Dictionary<string, object>
+                    {
+                        { "Key", key.ToString() },
+                        { "KeyValue", (int)key }
+                    };
+                    
+                    var modifiers = new List<string>();
+                    if ((Control.ModifierKeys & Keys.Control) != 0) modifiers.Add("Ctrl");
+                    if ((Control.ModifierKeys & Keys.Shift) != 0) modifiers.Add("Shift");
+                    if ((Control.ModifierKeys & Keys.Alt) != 0) modifiers.Add("Alt");
+                    
+                    if (modifiers.Count > 0) data["Modifiers"] = string.Join("+", modifiers);
 
-        private void GlobalHook_MouseMove(object? sender, MouseEventArgs e)
-        {
-            var pos = Cursor.Position;
-            RecordEvent("MouseMove", new Dictionary<string, object>
-            {
-                { "X", pos.X },
-                { "Y", pos.Y }
-            });
-        }
-
-        private void GlobalHook_MouseWheel(object? sender, MouseEventArgs e)
-        {
-            var pos = Cursor.Position;
-            RecordEvent("MouseWheel", new Dictionary<string, object>
-            {
-                { "Delta", e.Delta },
-                { "X", pos.X },
-                { "Y", pos.Y }
-            });
-        }
-
-        // Keyboard event handlers
-        private void GlobalHook_KeyDown(object? sender, KeyEventArgs e)
-        {
-            // Bỏ qua phím Windows (LWin, RWin) để tránh mở Start Menu khi Replay
-            if (e.KeyCode == Keys.LWin || e.KeyCode == Keys.RWin)
-            {
-                e.Handled = true;
+                    RecordEvent(isDown ? "KeyDown" : "KeyUp", data);
+                }
             }
-
-            // Ghi nhận tất cả KeyDown
-            var data = new Dictionary<string, object>
-            {
-                { "Key", e.KeyCode.ToString() },
-                { "KeyValue", e.KeyValue }
-            };
-
-            var modifiers = new List<string>();
-            if (e.Control) modifiers.Add("Ctrl");
-            if (e.Shift) modifiers.Add("Shift");
-            if (e.Alt) modifiers.Add("Alt");
-
-            if (modifiers.Count > 0)
-            {
-                data["Modifiers"] = string.Join("+", modifiers);
-            }
-
-            RecordEvent("KeyDown", data);
+            return CallNextHookEx(_hookIDKeyboard, nCode, wParam, lParam);
         }
 
-        private void GlobalHook_KeyUp(object? sender, KeyEventArgs e)
+        private IntPtr HookCallbackMouse(int nCode, IntPtr wParam, IntPtr lParam)
         {
-            // Bỏ qua phím Windows (LWin, RWin)
-            if (e.KeyCode == Keys.LWin || e.KeyCode == Keys.RWin)
+            if (nCode >= 0 && isRecording)
             {
-                e.Handled = true;
+                MSLLHOOKSTRUCT hookStruct = Marshal.PtrToStructure<MSLLHOOKSTRUCT>(lParam);
+                int msg = (int)wParam;
+
+                if (msg == WM_MOUSEMOVE)
+                {
+                    RecordEvent("MouseMove", new Dictionary<string, object> { { "X", hookStruct.pt.x }, { "Y", hookStruct.pt.y } });
+                }
+                else if (msg == WM_LBUTTONDOWN || msg == WM_RBUTTONDOWN || msg == WM_MBUTTONDOWN)
+                {
+                    string btn = msg == WM_LBUTTONDOWN ? "Left" : (msg == WM_RBUTTONDOWN ? "Right" : "Middle");
+                    RecordEvent("MouseDown", new Dictionary<string, object> { { "Button", btn }, { "X", hookStruct.pt.x }, { "Y", hookStruct.pt.y } });
+                }
+                else if (msg == WM_LBUTTONUP || msg == WM_RBUTTONUP || msg == WM_MBUTTONUP)
+                {
+                    string btn = msg == WM_LBUTTONUP ? "Left" : (msg == WM_RBUTTONUP ? "Right" : "Middle");
+                    RecordEvent("MouseUp", new Dictionary<string, object> { { "Button", btn }, { "X", hookStruct.pt.x }, { "Y", hookStruct.pt.y } });
+                }
+                else if (msg == WM_MOUSEWHEEL)
+                {
+                    // High word of mouseData is delta
+                    short delta = (short)((hookStruct.mouseData >> 16) & 0xFFFF);
+                    RecordEvent("MouseWheel", new Dictionary<string, object> { { "Delta", delta }, { "X", hookStruct.pt.x }, { "Y", hookStruct.pt.y } });
+                }
             }
-
-            // Ghi nhận tất cả KeyUp
-            var data = new Dictionary<string, object>
-            {
-                { "Key", e.KeyCode.ToString() },
-                { "KeyValue", e.KeyValue }
-            };
-
-            var modifiers = new List<string>();
-            if (e.Control) modifiers.Add("Ctrl");
-            if (e.Shift) modifiers.Add("Shift");
-            if (e.Alt) modifiers.Add("Alt");
-
-            if (modifiers.Count > 0)
-            {
-                data["Modifiers"] = string.Join("+", modifiers);
-            }
-
-            RecordEvent("KeyUp", data);
+            return CallNextHookEx(_hookIDMouse, nCode, wParam, lParam);
         }
 
         // ========== REPLAY FUNCTIONS ==========
@@ -909,22 +950,6 @@ namespace he_dieu_hanh.Pages
             await Task.Delay(10);
         }
 
-        private void ReplayHook_KeyDown(object? sender, KeyEventArgs e)
-        {
-            if (e.KeyCode == Keys.P)
-            {
-                isPaused = !isPaused;
-                e.Handled = true; // Prevent 'P' from being typed
-
-                // Update UI
-                string statusMsg = isPaused ? "Status: Replay PAUSED (Press P to resume)" : "Status: Replaying...";
-                if (this.InvokeRequired)
-                    this.BeginInvoke(new Action(() => lblStatus.Text = statusMsg));
-                else
-                    lblStatus.Text = statusMsg;
-            }
-        }
-
         private async Task ReplayAllEvents()
         {
             if (isRecording || isReplaying || recordedEvents.Count == 0)
@@ -937,8 +962,8 @@ namespace he_dieu_hanh.Pages
             btnStartRecord.Enabled = false;
 
             // Setup hook for Pause key
-            var replayHook = Hook.GlobalEvents();
-            replayHook.KeyDown += ReplayHook_KeyDown;
+            _procKeyboard = HookCallbackKeyboard;
+            _hookIDKeyboard = SetHook(_procKeyboard);
 
             try
             {
@@ -988,8 +1013,8 @@ namespace he_dieu_hanh.Pages
             }
             finally
             {
-                replayHook.KeyDown -= ReplayHook_KeyDown;
-                replayHook.Dispose();
+                UnhookWindowsHookEx(_hookIDKeyboard);
+                _hookIDKeyboard = IntPtr.Zero;
 
                 isReplaying = false;
                 isPaused = false;
@@ -1101,7 +1126,8 @@ namespace he_dieu_hanh.Pages
                 StopRecording();
                 replayCancellation?.Cancel();
                 replayCancellation?.Dispose();
-                globalHook?.Dispose();
+                if (_hookIDKeyboard != IntPtr.Zero) UnhookWindowsHookEx(_hookIDKeyboard);
+                if (_hookIDMouse != IntPtr.Zero) UnhookWindowsHookEx(_hookIDMouse);
             }
             base.Dispose(disposing);
         }

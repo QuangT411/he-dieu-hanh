@@ -147,5 +147,16 @@ namespace he_dieu_hanh
             var method = page.GetType().GetMethod("ApplyTheme");
             method?.Invoke(page, null);
         }
+
+        protected override void OnFormClosing(FormClosingEventArgs e)
+        {
+            // Đảm bảo gỡ Hook khi tắt app
+            if (pageEventLog != null)
+            {
+                pageEventLog.Dispose();
+            }
+            
+            base.OnFormClosing(e);
+        }
     }
 }

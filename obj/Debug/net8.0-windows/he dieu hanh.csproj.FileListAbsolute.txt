@@ -48,8 +48,6 @@ C:\Users\ADMIN\Downloads\he-dieu-hanh\bin\Debug\net8.0-windows\he dieu hanh.deps
 C:\Users\ADMIN\Downloads\he-dieu-hanh\bin\Debug\net8.0-windows\he dieu hanh.runtimeconfig.json
 C:\Users\ADMIN\Downloads\he-dieu-hanh\bin\Debug\net8.0-windows\he dieu hanh.dll
 C:\Users\ADMIN\Downloads\he-dieu-hanh\bin\Debug\net8.0-windows\he dieu hanh.pdb
-C:\Users\ADMIN\Downloads\he-dieu-hanh\bin\Debug\net8.0-windows\Gma.System.MouseKeyHook.dll
-C:\Users\ADMIN\Downloads\he-dieu-hanh\obj\Debug\net8.0-windows\he dieu hanh.csproj.AssemblyReference.cache
 C:\Users\ADMIN\Downloads\he-dieu-hanh\obj\Debug\net8.0-windows\he_dieu_hanh.MainForm.resources
 C:\Users\ADMIN\Downloads\he-dieu-hanh\obj\Debug\net8.0-windows\he_dieu_hanh.Pages.PageDashboard.resources
 C:\Users\ADMIN\Downloads\he-dieu-hanh\obj\Debug\net8.0-windows\he_dieu_hanh.Pages.RecordedEvent.resources
@@ -60,7 +58,6 @@ C:\Users\ADMIN\Downloads\he-dieu-hanh\obj\Debug\net8.0-windows\he dieu hanh.Asse
 C:\Users\ADMIN\Downloads\he-dieu-hanh\obj\Debug\net8.0-windows\he dieu hanh.AssemblyInfo.cs
 C:\Users\ADMIN\Downloads\he-dieu-hanh\obj\Debug\net8.0-windows\he dieu hanh.csproj.CoreCompileInputs.cache
 C:\Users\ADMIN\Downloads\he-dieu-hanh\obj\Debug\net8.0-windows\he dieu hanh.sourcelink.json
-C:\Users\ADMIN\Downloads\he-dieu-hanh\obj\Debug\net8.0-windows\he dieu .6505C773.Up2Date
 C:\Users\ADMIN\Downloads\he-dieu-hanh\obj\Debug\net8.0-windows\he dieu hanh.dll
 C:\Users\ADMIN\Downloads\he-dieu-hanh\obj\Debug\net8.0-windows\refint\he dieu hanh.dll
 C:\Users\ADMIN\Downloads\he-dieu-hanh\obj\Debug\net8.0-windows\he dieu hanh.pdb
