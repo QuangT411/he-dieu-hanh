@@ -28,6 +28,8 @@
 
 *   **Ngôn ngữ:** C#
 *   **Framework:** .NET 8.0 (Windows Forms)
+*   **Windows API (P/Invoke):**
+    *   `user32.dll`: Sử dụng các hàm API cấp thấp để Hook hệ thống (`SetWindowsHookEx`, `CallNextHookEx`, `UnhookWindowsHookEx`) và mô phỏng sự kiện (`mouse_event`, `keybd_event`).
 *   **Thư viện:**
     *   `System.Text.Json`: Để lưu trữ và đọc dữ liệu log.
 
@@ -72,5 +74,7 @@
     *   `PageSettings.cs`: Trang cài đặt.
 
 ## ⚠️ Lưu ý
-*   Do ứng dụng sử dụng Global Hook để bắt sự kiện chuột và bàn phím, một số phần mềm diệt virus có thể cảnh báo. Đây là hành vi bình thường của các ứng dụng dạng Auto Click/Macro.
-*   Cần chạy ứng dụng với quyền Administrator nếu muốn tương tác với các ứng dụng chạy quyền cao khác.
+
+*   **Cảnh báo Antivirus:** Do ứng dụng sử dụng **Global Hook** (thông qua `user32.dll`) để bắt sự kiện chuột và bàn phím, một số phần mềm diệt virus có thể cảnh báo nhầm là mã độc. Đây là hành vi bình thường của các ứng dụng dạng Auto Click/Macro.
+*   **Quyền Administrator:** Cần chạy ứng dụng với quyền **Administrator** nếu muốn tương tác (ghi/phát lại) với các ứng dụng chạy quyền cao khác (ví dụ: Task Manager, Game...).
+*   **Khuyến cáo:** Ứng dụng chỉ phục vụ mục đích học tập và tự động hóa cá nhân.
