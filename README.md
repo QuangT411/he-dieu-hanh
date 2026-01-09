@@ -1,4 +1,4 @@
-# Hook Logger (Hệ Điều Hành)
+# Hook Logger
 
 Ứng dụng Windows Forms được viết bằng C# (.NET 8.0) với chức năng chính là ghi lại (record) và phát lại (replay) các sự kiện chuột và bàn phím trên toàn hệ thống. Ứng dụng có giao diện hiện đại, hỗ trợ nhiều trang (Dashboard, Event Log, Settings) và quản lý giao diện (Theme).
 
