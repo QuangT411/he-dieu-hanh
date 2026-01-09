@@ -34,7 +34,7 @@
 *   Hệ điều hành: Windows 10/11.
 *   .NET SDK: Phiên bản 8.0 trở lên.
 
-## guide Hướng dẫn cài đặt và chạy
+## Hướng dẫn cài đặt và chạy
 
 1.  **Clone hoặc tải dự án về máy:**
     ```bash
