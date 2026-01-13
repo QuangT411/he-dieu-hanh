@@ -64,7 +64,8 @@
 
 *   **Cảnh báo Antivirus:** Do ứng dụng sử dụng **Global Hook** (thông qua `user32.dll`) để bắt sự kiện chuột và bàn phím, một số phần mềm diệt virus có thể cảnh báo nhầm là mã độc. Đây là hành vi bình thường của các ứng dụng dạng Auto Click/Macro.
 *   **Quyền Administrator:** Cần chạy ứng dụng với quyền **Administrator** nếu muốn tương tác (ghi/phát lại) với các ứng dụng chạy quyền cao khác (ví dụ: Task Manager, Game...).
-
+# Mức độ hoàn thành
+Nhóm đã hoàn thành đầy đủ các yêu cầu cốt lõi của đề tài Hook Logger – Ghi và phát lại sự kiện chuột và bàn phím trên Windows.
 
 # Tác giả đóng góp
 *   Tô Mạnh Quang: Hook và ghi lại các sự kiện của chuột
@@ -73,6 +74,7 @@
 *   Phạm Đức Trung: Giao diện và các nút xử lý các hàm sự kiện
 
 # Tài liệu tham khảo
+<<<<<<< HEAD
 ## Record
 [Microsoft Windown Hook](https://learn.microsoft.com/en-us/windows/win32/winmsg/hooks)
 ## Replay for win11
@@ -80,3 +82,6 @@
 [Struct](https://learn.microsoft.com/en-us/windows/win32/api/winuser/ns-winuser-input)
 [Mouse Flags](https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-mouse_event)
 [Key Flags](https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-keybd_event)
+=======
+[Microsoft Windown Hook](https://learn.microsoft.com/en-us/windows/win32/winmsg/hooks)
+>>>>>>> 591e6499deda0153ff471d902055bfa1d3a34391
