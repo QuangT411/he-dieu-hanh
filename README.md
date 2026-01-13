@@ -77,11 +77,10 @@ Nhóm đã hoàn thành đầy đủ các yêu cầu cốt lõi của đề tài
 <<<<<<< HEAD
 ## Record
 [Microsoft Windown Hook](https://learn.microsoft.com/en-us/windows/win32/winmsg/hooks)
-## Replay for win11
+## Replay (for win11)
 [Winuser](https://learn.microsoft.com/id-id/windows/win32/api/winuser/nf-winuser-sendinput)
 [Struct](https://learn.microsoft.com/en-us/windows/win32/api/winuser/ns-winuser-input)
 [Mouse Flags](https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-mouse_event)
 [Key Flags](https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-keybd_event)
 =======
 [Microsoft Windown Hook](https://learn.microsoft.com/en-us/windows/win32/winmsg/hooks)
->>>>>>> 591e6499deda0153ff471d902055bfa1d3a34391
