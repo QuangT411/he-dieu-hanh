@@ -1,0 +1,7010 @@
+[
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 113,
+    "DelayMs": 0,
+    "Data": {
+      "X": 661,
+      "Y": 177
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 118,
+    "DelayMs": 5,
+    "Data": {
+      "X": 662,
+      "Y": 177
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 126,
+    "DelayMs": 8,
+    "Data": {
+      "X": 663,
+      "Y": 178
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 135,
+    "DelayMs": 9,
+    "Data": {
+      "X": 665,
+      "Y": 180
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 142,
+    "DelayMs": 7,
+    "Data": {
+      "X": 666,
+      "Y": 181
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 151,
+    "DelayMs": 9,
+    "Data": {
+      "X": 668,
+      "Y": 183
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 159,
+    "DelayMs": 8,
+    "Data": {
+      "X": 671,
+      "Y": 186
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 166,
+    "DelayMs": 7,
+    "Data": {
+      "X": 674,
+      "Y": 189
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 174,
+    "DelayMs": 8,
+    "Data": {
+      "X": 676,
+      "Y": 195
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 182,
+    "DelayMs": 8,
+    "Data": {
+      "X": 682,
+      "Y": 201
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 191,
+    "DelayMs": 9,
+    "Data": {
+      "X": 688,
+      "Y": 207
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 198,
+    "DelayMs": 7,
+    "Data": {
+      "X": 691,
+      "Y": 212
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 207,
+    "DelayMs": 9,
+    "Data": {
+      "X": 693,
+      "Y": 220
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 214,
+    "DelayMs": 7,
+    "Data": {
+      "X": 700,
+      "Y": 228
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 222,
+    "DelayMs": 8,
+    "Data": {
+      "X": 707,
+      "Y": 240
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 230,
+    "DelayMs": 8,
+    "Data": {
+      "X": 713,
+      "Y": 249
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 239,
+    "DelayMs": 9,
+    "Data": {
+      "X": 723,
+      "Y": 261
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 247,
+    "DelayMs": 8,
+    "Data": {
+      "X": 730,
+      "Y": 273
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 255,
+    "DelayMs": 8,
+    "Data": {
+      "X": 736,
+      "Y": 278
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 262,
+    "DelayMs": 7,
+    "Data": {
+      "X": 742,
+      "Y": 284
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 271,
+    "DelayMs": 9,
+    "Data": {
+      "X": 745,
+      "Y": 290
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 278,
+    "DelayMs": 7,
+    "Data": {
+      "X": 749,
+      "Y": 295
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 286,
+    "DelayMs": 8,
+    "Data": {
+      "X": 753,
+      "Y": 301
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 294,
+    "DelayMs": 8,
+    "Data": {
+      "X": 757,
+      "Y": 307
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 303,
+    "DelayMs": 9,
+    "Data": {
+      "X": 760,
+      "Y": 312
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 310,
+    "DelayMs": 7,
+    "Data": {
+      "X": 762,
+      "Y": 320
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 318,
+    "DelayMs": 8,
+    "Data": {
+      "X": 766,
+      "Y": 328
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 326,
+    "DelayMs": 8,
+    "Data": {
+      "X": 768,
+      "Y": 334
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 334,
+    "DelayMs": 8,
+    "Data": {
+      "X": 772,
+      "Y": 339
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 343,
+    "DelayMs": 9,
+    "Data": {
+      "X": 776,
+      "Y": 347
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 351,
+    "DelayMs": 8,
+    "Data": {
+      "X": 782,
+      "Y": 356
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 358,
+    "DelayMs": 7,
+    "Data": {
+      "X": 787,
+      "Y": 367
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 367,
+    "DelayMs": 9,
+    "Data": {
+      "X": 794,
+      "Y": 379
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 374,
+    "DelayMs": 7,
+    "Data": {
+      "X": 801,
+      "Y": 390
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 382,
+    "DelayMs": 8,
+    "Data": {
+      "X": 805,
+      "Y": 399
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 390,
+    "DelayMs": 8,
+    "Data": {
+      "X": 807,
+      "Y": 404
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 399,
+    "DelayMs": 9,
+    "Data": {
+      "X": 813,
+      "Y": 412
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 406,
+    "DelayMs": 7,
+    "Data": {
+      "X": 817,
+      "Y": 416
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 414,
+    "DelayMs": 8,
+    "Data": {
+      "X": 818,
+      "Y": 422
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 423,
+    "DelayMs": 9,
+    "Data": {
+      "X": 824,
+      "Y": 427
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 430,
+    "DelayMs": 7,
+    "Data": {
+      "X": 828,
+      "Y": 433
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 438,
+    "DelayMs": 8,
+    "Data": {
+      "X": 832,
+      "Y": 438
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 446,
+    "DelayMs": 8,
+    "Data": {
+      "X": 840,
+      "Y": 445
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 455,
+    "DelayMs": 9,
+    "Data": {
+      "X": 846,
+      "Y": 450
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 463,
+    "DelayMs": 8,
+    "Data": {
+      "X": 848,
+      "Y": 458
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 471,
+    "DelayMs": 8,
+    "Data": {
+      "X": 853,
+      "Y": 464
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 478,
+    "DelayMs": 7,
+    "Data": {
+      "X": 859,
+      "Y": 470
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 486,
+    "DelayMs": 8,
+    "Data": {
+      "X": 865,
+      "Y": 476
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 494,
+    "DelayMs": 8,
+    "Data": {
+      "X": 869,
+      "Y": 479
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 503,
+    "DelayMs": 9,
+    "Data": {
+      "X": 870,
+      "Y": 485
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 511,
+    "DelayMs": 8,
+    "Data": {
+      "X": 874,
+      "Y": 488
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 519,
+    "DelayMs": 8,
+    "Data": {
+      "X": 878,
+      "Y": 492
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 526,
+    "DelayMs": 7,
+    "Data": {
+      "X": 881,
+      "Y": 495
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 534,
+    "DelayMs": 8,
+    "Data": {
+      "X": 885,
+      "Y": 499
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 542,
+    "DelayMs": 8,
+    "Data": {
+      "X": 886,
+      "Y": 500
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 550,
+    "DelayMs": 8,
+    "Data": {
+      "X": 889,
+      "Y": 503
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 559,
+    "DelayMs": 9,
+    "Data": {
+      "X": 891,
+      "Y": 509
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 566,
+    "DelayMs": 7,
+    "Data": {
+      "X": 893,
+      "Y": 510
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 582,
+    "DelayMs": 16,
+    "Data": {
+      "X": 894,
+      "Y": 513
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 590,
+    "DelayMs": 8,
+    "Data": {
+      "X": 896,
+      "Y": 517
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 598,
+    "DelayMs": 8,
+    "Data": {
+      "X": 897,
+      "Y": 518
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 606,
+    "DelayMs": 8,
+    "Data": {
+      "X": 899,
+      "Y": 520
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 614,
+    "DelayMs": 8,
+    "Data": {
+      "X": 900,
+      "Y": 523
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 622,
+    "DelayMs": 8,
+    "Data": {
+      "X": 904,
+      "Y": 525
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 630,
+    "DelayMs": 8,
+    "Data": {
+      "X": 905,
+      "Y": 530
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 638,
+    "DelayMs": 8,
+    "Data": {
+      "X": 909,
+      "Y": 536
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 646,
+    "DelayMs": 8,
+    "Data": {
+      "X": 913,
+      "Y": 539
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 654,
+    "DelayMs": 8,
+    "Data": {
+      "X": 916,
+      "Y": 541
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 663,
+    "DelayMs": 9,
+    "Data": {
+      "X": 918,
+      "Y": 544
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 670,
+    "DelayMs": 7,
+    "Data": {
+      "X": 919,
+      "Y": 546
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 678,
+    "DelayMs": 8,
+    "Data": {
+      "X": 921,
+      "Y": 547
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 686,
+    "DelayMs": 8,
+    "Data": {
+      "X": 922,
+      "Y": 549
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 694,
+    "DelayMs": 8,
+    "Data": {
+      "X": 924,
+      "Y": 549
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 702,
+    "DelayMs": 8,
+    "Data": {
+      "X": 927,
+      "Y": 550
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 711,
+    "DelayMs": 9,
+    "Data": {
+      "X": 928,
+      "Y": 554
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 719,
+    "DelayMs": 8,
+    "Data": {
+      "X": 932,
+      "Y": 555
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 727,
+    "DelayMs": 8,
+    "Data": {
+      "X": 933,
+      "Y": 557
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 735,
+    "DelayMs": 8,
+    "Data": {
+      "X": 935,
+      "Y": 558
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 742,
+    "DelayMs": 7,
+    "Data": {
+      "X": 938,
+      "Y": 558
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 855,
+    "DelayMs": 113,
+    "Data": {
+      "X": 941,
+      "Y": 557
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 867,
+    "DelayMs": 12,
+    "Data": {
+      "X": 941,
+      "Y": 554
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 870,
+    "DelayMs": 3,
+    "Data": {
+      "X": 940,
+      "Y": 549
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 879,
+    "DelayMs": 9,
+    "Data": {
+      "X": 936,
+      "Y": 538
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 887,
+    "DelayMs": 8,
+    "Data": {
+      "X": 929,
+      "Y": 523
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 894,
+    "DelayMs": 7,
+    "Data": {
+      "X": 918,
+      "Y": 502
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 903,
+    "DelayMs": 9,
+    "Data": {
+      "X": 899,
+      "Y": 480
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 910,
+    "DelayMs": 7,
+    "Data": {
+      "X": 880,
+      "Y": 462
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 918,
+    "DelayMs": 8,
+    "Data": {
+      "X": 864,
+      "Y": 443
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 926,
+    "DelayMs": 8,
+    "Data": {
+      "X": 851,
+      "Y": 428
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 934,
+    "DelayMs": 8,
+    "Data": {
+      "X": 836,
+      "Y": 418
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 943,
+    "DelayMs": 9,
+    "Data": {
+      "X": 825,
+      "Y": 411
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 950,
+    "DelayMs": 7,
+    "Data": {
+      "X": 813,
+      "Y": 401
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 958,
+    "DelayMs": 8,
+    "Data": {
+      "X": 804,
+      "Y": 397
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 966,
+    "DelayMs": 8,
+    "Data": {
+      "X": 796,
+      "Y": 393
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 974,
+    "DelayMs": 8,
+    "Data": {
+      "X": 791,
+      "Y": 393
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 982,
+    "DelayMs": 8,
+    "Data": {
+      "X": 787,
+      "Y": 391
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 991,
+    "DelayMs": 9,
+    "Data": {
+      "X": 786,
+      "Y": 390
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 998,
+    "DelayMs": 7,
+    "Data": {
+      "X": 783,
+      "Y": 390
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1006,
+    "DelayMs": 8,
+    "Data": {
+      "X": 778,
+      "Y": 388
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1014,
+    "DelayMs": 8,
+    "Data": {
+      "X": 774,
+      "Y": 388
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1022,
+    "DelayMs": 8,
+    "Data": {
+      "X": 771,
+      "Y": 388
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1031,
+    "DelayMs": 9,
+    "Data": {
+      "X": 758,
+      "Y": 386
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1038,
+    "DelayMs": 7,
+    "Data": {
+      "X": 741,
+      "Y": 381
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1047,
+    "DelayMs": 9,
+    "Data": {
+      "X": 717,
+      "Y": 375
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1054,
+    "DelayMs": 7,
+    "Data": {
+      "X": 696,
+      "Y": 370
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1062,
+    "DelayMs": 8,
+    "Data": {
+      "X": 675,
+      "Y": 365
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1070,
+    "DelayMs": 8,
+    "Data": {
+      "X": 655,
+      "Y": 362
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1078,
+    "DelayMs": 8,
+    "Data": {
+      "X": 631,
+      "Y": 354
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1087,
+    "DelayMs": 9,
+    "Data": {
+      "X": 607,
+      "Y": 349
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1094,
+    "DelayMs": 7,
+    "Data": {
+      "X": 586,
+      "Y": 346
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1103,
+    "DelayMs": 9,
+    "Data": {
+      "X": 565,
+      "Y": 339
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1110,
+    "DelayMs": 7,
+    "Data": {
+      "X": 548,
+      "Y": 334
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1118,
+    "DelayMs": 8,
+    "Data": {
+      "X": 537,
+      "Y": 331
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1126,
+    "DelayMs": 8,
+    "Data": {
+      "X": 526,
+      "Y": 329
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1134,
+    "DelayMs": 8,
+    "Data": {
+      "X": 518,
+      "Y": 327
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1142,
+    "DelayMs": 8,
+    "Data": {
+      "X": 511,
+      "Y": 327
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1150,
+    "DelayMs": 8,
+    "Data": {
+      "X": 505,
+      "Y": 325
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1158,
+    "DelayMs": 8,
+    "Data": {
+      "X": 502,
+      "Y": 324
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1166,
+    "DelayMs": 8,
+    "Data": {
+      "X": 501,
+      "Y": 322
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1174,
+    "DelayMs": 8,
+    "Data": {
+      "X": 498,
+      "Y": 322
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1182,
+    "DelayMs": 8,
+    "Data": {
+      "X": 496,
+      "Y": 319
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1191,
+    "DelayMs": 9,
+    "Data": {
+      "X": 494,
+      "Y": 318
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1207,
+    "DelayMs": 16,
+    "Data": {
+      "X": 493,
+      "Y": 313
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1215,
+    "DelayMs": 8,
+    "Data": {
+      "X": 493,
+      "Y": 309
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1222,
+    "DelayMs": 7,
+    "Data": {
+      "X": 491,
+      "Y": 306
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1231,
+    "DelayMs": 9,
+    "Data": {
+      "X": 489,
+      "Y": 303
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1239,
+    "DelayMs": 8,
+    "Data": {
+      "X": 489,
+      "Y": 299
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1246,
+    "DelayMs": 7,
+    "Data": {
+      "X": 488,
+      "Y": 296
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1255,
+    "DelayMs": 9,
+    "Data": {
+      "X": 486,
+      "Y": 293
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1262,
+    "DelayMs": 7,
+    "Data": {
+      "X": 484,
+      "Y": 289
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1270,
+    "DelayMs": 8,
+    "Data": {
+      "X": 483,
+      "Y": 286
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1278,
+    "DelayMs": 8,
+    "Data": {
+      "X": 483,
+      "Y": 283
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1286,
+    "DelayMs": 8,
+    "Data": {
+      "X": 481,
+      "Y": 279
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1294,
+    "DelayMs": 8,
+    "Data": {
+      "X": 479,
+      "Y": 278
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1319,
+    "DelayMs": 25,
+    "Data": {
+      "X": 479,
+      "Y": 275
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1334,
+    "DelayMs": 15,
+    "Data": {
+      "X": 478,
+      "Y": 271
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1342,
+    "DelayMs": 8,
+    "Data": {
+      "X": 478,
+      "Y": 268
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1367,
+    "DelayMs": 25,
+    "Data": {
+      "X": 478,
+      "Y": 265
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1375,
+    "DelayMs": 8,
+    "Data": {
+      "X": 478,
+      "Y": 263
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1382,
+    "DelayMs": 7,
+    "Data": {
+      "X": 478,
+      "Y": 260
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1390,
+    "DelayMs": 8,
+    "Data": {
+      "X": 478,
+      "Y": 259
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1398,
+    "DelayMs": 8,
+    "Data": {
+      "X": 478,
+      "Y": 256
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1407,
+    "DelayMs": 9,
+    "Data": {
+      "X": 478,
+      "Y": 255
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1415,
+    "DelayMs": 8,
+    "Data": {
+      "X": 478,
+      "Y": 252
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1422,
+    "DelayMs": 7,
+    "Data": {
+      "X": 478,
+      "Y": 248
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1430,
+    "DelayMs": 8,
+    "Data": {
+      "X": 478,
+      "Y": 245
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1438,
+    "DelayMs": 8,
+    "Data": {
+      "X": 478,
+      "Y": 242
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1446,
+    "DelayMs": 8,
+    "Data": {
+      "X": 478,
+      "Y": 240
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1455,
+    "DelayMs": 9,
+    "Data": {
+      "X": 478,
+      "Y": 237
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1462,
+    "DelayMs": 7,
+    "Data": {
+      "X": 478,
+      "Y": 236
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1471,
+    "DelayMs": 9,
+    "Data": {
+      "X": 480,
+      "Y": 231
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1478,
+    "DelayMs": 7,
+    "Data": {
+      "X": 480,
+      "Y": 228
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1502,
+    "DelayMs": 24,
+    "Data": {
+      "X": 480,
+      "Y": 226
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 1559,
+    "DelayMs": 57,
+    "Data": {
+      "X": 482,
+      "Y": 223
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 2271,
+    "DelayMs": 712,
+    "Data": {
+      "X": 483,
+      "Y": 224
+    }
+  },
+  {
+    "EventType": "MouseDown",
+    "Timestamp": 4095,
+    "DelayMs": 1824,
+    "Data": {
+      "Button": "Left",
+      "X": 483,
+      "Y": 224
+    }
+  },
+  {
+    "EventType": "MouseUp",
+    "Timestamp": 4223,
+    "DelayMs": 128,
+    "Data": {
+      "Button": "Left",
+      "X": 483,
+      "Y": 224
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4535,
+    "DelayMs": 312,
+    "Data": {
+      "X": 484,
+      "Y": 224
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4542,
+    "DelayMs": 7,
+    "Data": {
+      "X": 488,
+      "Y": 224
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4550,
+    "DelayMs": 8,
+    "Data": {
+      "X": 498,
+      "Y": 226
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4558,
+    "DelayMs": 8,
+    "Data": {
+      "X": 516,
+      "Y": 233
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4566,
+    "DelayMs": 8,
+    "Data": {
+      "X": 533,
+      "Y": 238
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4574,
+    "DelayMs": 8,
+    "Data": {
+      "X": 544,
+      "Y": 238
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4582,
+    "DelayMs": 8,
+    "Data": {
+      "X": 558,
+      "Y": 241
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4590,
+    "DelayMs": 8,
+    "Data": {
+      "X": 575,
+      "Y": 246
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4598,
+    "DelayMs": 8,
+    "Data": {
+      "X": 589,
+      "Y": 248
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4606,
+    "DelayMs": 8,
+    "Data": {
+      "X": 604,
+      "Y": 253
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4614,
+    "DelayMs": 8,
+    "Data": {
+      "X": 614,
+      "Y": 255
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4622,
+    "DelayMs": 8,
+    "Data": {
+      "X": 622,
+      "Y": 257
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4630,
+    "DelayMs": 8,
+    "Data": {
+      "X": 630,
+      "Y": 257
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4638,
+    "DelayMs": 8,
+    "Data": {
+      "X": 640,
+      "Y": 257
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4646,
+    "DelayMs": 8,
+    "Data": {
+      "X": 650,
+      "Y": 259
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4654,
+    "DelayMs": 8,
+    "Data": {
+      "X": 664,
+      "Y": 261
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4662,
+    "DelayMs": 8,
+    "Data": {
+      "X": 679,
+      "Y": 266
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4671,
+    "DelayMs": 9,
+    "Data": {
+      "X": 690,
+      "Y": 268
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4679,
+    "DelayMs": 8,
+    "Data": {
+      "X": 701,
+      "Y": 273
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4686,
+    "DelayMs": 7,
+    "Data": {
+      "X": 711,
+      "Y": 273
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4694,
+    "DelayMs": 8,
+    "Data": {
+      "X": 722,
+      "Y": 275
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4702,
+    "DelayMs": 8,
+    "Data": {
+      "X": 733,
+      "Y": 280
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4711,
+    "DelayMs": 9,
+    "Data": {
+      "X": 739,
+      "Y": 280
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4719,
+    "DelayMs": 8,
+    "Data": {
+      "X": 742,
+      "Y": 280
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4727,
+    "DelayMs": 8,
+    "Data": {
+      "X": 747,
+      "Y": 280
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4735,
+    "DelayMs": 8,
+    "Data": {
+      "X": 755,
+      "Y": 280
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4742,
+    "DelayMs": 7,
+    "Data": {
+      "X": 765,
+      "Y": 280
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4750,
+    "DelayMs": 8,
+    "Data": {
+      "X": 770,
+      "Y": 280
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4758,
+    "DelayMs": 8,
+    "Data": {
+      "X": 780,
+      "Y": 280
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4767,
+    "DelayMs": 9,
+    "Data": {
+      "X": 791,
+      "Y": 279
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4774,
+    "DelayMs": 7,
+    "Data": {
+      "X": 805,
+      "Y": 276
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4782,
+    "DelayMs": 8,
+    "Data": {
+      "X": 819,
+      "Y": 274
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4791,
+    "DelayMs": 9,
+    "Data": {
+      "X": 831,
+      "Y": 267
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4798,
+    "DelayMs": 7,
+    "Data": {
+      "X": 839,
+      "Y": 263
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4806,
+    "DelayMs": 8,
+    "Data": {
+      "X": 847,
+      "Y": 259
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4814,
+    "DelayMs": 8,
+    "Data": {
+      "X": 851,
+      "Y": 255
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4822,
+    "DelayMs": 8,
+    "Data": {
+      "X": 854,
+      "Y": 249
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4831,
+    "DelayMs": 9,
+    "Data": {
+      "X": 860,
+      "Y": 246
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4838,
+    "DelayMs": 7,
+    "Data": {
+      "X": 864,
+      "Y": 242
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4846,
+    "DelayMs": 8,
+    "Data": {
+      "X": 867,
+      "Y": 239
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4854,
+    "DelayMs": 8,
+    "Data": {
+      "X": 869,
+      "Y": 235
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4862,
+    "DelayMs": 8,
+    "Data": {
+      "X": 870,
+      "Y": 234
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4894,
+    "DelayMs": 32,
+    "Data": {
+      "X": 872,
+      "Y": 232
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4910,
+    "DelayMs": 16,
+    "Data": {
+      "X": 873,
+      "Y": 233
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4919,
+    "DelayMs": 9,
+    "Data": {
+      "X": 875,
+      "Y": 234
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4927,
+    "DelayMs": 8,
+    "Data": {
+      "X": 876,
+      "Y": 236
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4934,
+    "DelayMs": 7,
+    "Data": {
+      "X": 876,
+      "Y": 237
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4942,
+    "DelayMs": 8,
+    "Data": {
+      "X": 876,
+      "Y": 240
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4950,
+    "DelayMs": 8,
+    "Data": {
+      "X": 877,
+      "Y": 241
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4958,
+    "DelayMs": 8,
+    "Data": {
+      "X": 879,
+      "Y": 246
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4966,
+    "DelayMs": 8,
+    "Data": {
+      "X": 879,
+      "Y": 256
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4974,
+    "DelayMs": 8,
+    "Data": {
+      "X": 879,
+      "Y": 267
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4982,
+    "DelayMs": 8,
+    "Data": {
+      "X": 879,
+      "Y": 283
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4990,
+    "DelayMs": 8,
+    "Data": {
+      "X": 879,
+      "Y": 303
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 4998,
+    "DelayMs": 8,
+    "Data": {
+      "X": 879,
+      "Y": 317
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5006,
+    "DelayMs": 8,
+    "Data": {
+      "X": 879,
+      "Y": 331
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5014,
+    "DelayMs": 8,
+    "Data": {
+      "X": 879,
+      "Y": 344
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5023,
+    "DelayMs": 9,
+    "Data": {
+      "X": 879,
+      "Y": 358
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5030,
+    "DelayMs": 7,
+    "Data": {
+      "X": 879,
+      "Y": 368
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5039,
+    "DelayMs": 9,
+    "Data": {
+      "X": 879,
+      "Y": 375
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5047,
+    "DelayMs": 8,
+    "Data": {
+      "X": 879,
+      "Y": 379
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5054,
+    "DelayMs": 7,
+    "Data": {
+      "X": 879,
+      "Y": 382
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5062,
+    "DelayMs": 8,
+    "Data": {
+      "X": 879,
+      "Y": 389
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5071,
+    "DelayMs": 9,
+    "Data": {
+      "X": 879,
+      "Y": 395
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5078,
+    "DelayMs": 7,
+    "Data": {
+      "X": 878,
+      "Y": 398
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5086,
+    "DelayMs": 8,
+    "Data": {
+      "X": 878,
+      "Y": 401
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5094,
+    "DelayMs": 8,
+    "Data": {
+      "X": 878,
+      "Y": 407
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5103,
+    "DelayMs": 9,
+    "Data": {
+      "X": 877,
+      "Y": 410
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5110,
+    "DelayMs": 7,
+    "Data": {
+      "X": 875,
+      "Y": 413
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5118,
+    "DelayMs": 8,
+    "Data": {
+      "X": 875,
+      "Y": 419
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5126,
+    "DelayMs": 8,
+    "Data": {
+      "X": 873,
+      "Y": 426
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5134,
+    "DelayMs": 8,
+    "Data": {
+      "X": 873,
+      "Y": 440
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5142,
+    "DelayMs": 8,
+    "Data": {
+      "X": 873,
+      "Y": 454
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5150,
+    "DelayMs": 8,
+    "Data": {
+      "X": 873,
+      "Y": 467
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5158,
+    "DelayMs": 8,
+    "Data": {
+      "X": 873,
+      "Y": 481
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5166,
+    "DelayMs": 8,
+    "Data": {
+      "X": 873,
+      "Y": 488
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5174,
+    "DelayMs": 8,
+    "Data": {
+      "X": 874,
+      "Y": 496
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5183,
+    "DelayMs": 9,
+    "Data": {
+      "X": 874,
+      "Y": 501
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5191,
+    "DelayMs": 8,
+    "Data": {
+      "X": 874,
+      "Y": 509
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5198,
+    "DelayMs": 7,
+    "Data": {
+      "X": 874,
+      "Y": 516
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5207,
+    "DelayMs": 9,
+    "Data": {
+      "X": 874,
+      "Y": 522
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5214,
+    "DelayMs": 7,
+    "Data": {
+      "X": 876,
+      "Y": 527
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5222,
+    "DelayMs": 8,
+    "Data": {
+      "X": 876,
+      "Y": 532
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5230,
+    "DelayMs": 8,
+    "Data": {
+      "X": 876,
+      "Y": 536
+    }
+  },
+  {
+    "EventType": "MouseDown",
+    "Timestamp": 5351,
+    "DelayMs": 121,
+    "Data": {
+      "Button": "Left",
+      "X": 876,
+      "Y": 536
+    }
+  },
+  {
+    "EventType": "MouseUp",
+    "Timestamp": 5447,
+    "DelayMs": 96,
+    "Data": {
+      "Button": "Left",
+      "X": 876,
+      "Y": 536
+    }
+  },
+  {
+    "EventType": "MouseDown",
+    "Timestamp": 5663,
+    "DelayMs": 216,
+    "Data": {
+      "Button": "Right",
+      "X": 876,
+      "Y": 536
+    }
+  },
+  {
+    "EventType": "MouseUp",
+    "Timestamp": 5759,
+    "DelayMs": 96,
+    "Data": {
+      "Button": "Right",
+      "X": 876,
+      "Y": 536
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5830,
+    "DelayMs": 71,
+    "Data": {
+      "X": 876,
+      "Y": 535
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5863,
+    "DelayMs": 33,
+    "Data": {
+      "X": 877,
+      "Y": 534
+    }
+  },
+  {
+    "EventType": "MouseDown",
+    "Timestamp": 5871,
+    "DelayMs": 8,
+    "Data": {
+      "Button": "Right",
+      "X": 877,
+      "Y": 534
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5935,
+    "DelayMs": 64,
+    "Data": {
+      "X": 879,
+      "Y": 532
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5942,
+    "DelayMs": 7,
+    "Data": {
+      "X": 880,
+      "Y": 531
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5958,
+    "DelayMs": 16,
+    "Data": {
+      "X": 883,
+      "Y": 529
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5967,
+    "DelayMs": 9,
+    "Data": {
+      "X": 886,
+      "Y": 529
+    }
+  },
+  {
+    "EventType": "MouseUp",
+    "Timestamp": 5969,
+    "DelayMs": 2,
+    "Data": {
+      "Button": "Right",
+      "X": 886,
+      "Y": 529
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5974,
+    "DelayMs": 5,
+    "Data": {
+      "X": 892,
+      "Y": 527
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5982,
+    "DelayMs": 8,
+    "Data": {
+      "X": 902,
+      "Y": 523
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5990,
+    "DelayMs": 8,
+    "Data": {
+      "X": 913,
+      "Y": 521
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 5999,
+    "DelayMs": 9,
+    "Data": {
+      "X": 919,
+      "Y": 517
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6008,
+    "DelayMs": 9,
+    "Data": {
+      "X": 927,
+      "Y": 515
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6014,
+    "DelayMs": 6,
+    "Data": {
+      "X": 941,
+      "Y": 508
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6022,
+    "DelayMs": 8,
+    "Data": {
+      "X": 950,
+      "Y": 504
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6030,
+    "DelayMs": 8,
+    "Data": {
+      "X": 955,
+      "Y": 504
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6038,
+    "DelayMs": 8,
+    "Data": {
+      "X": 963,
+      "Y": 502
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6046,
+    "DelayMs": 8,
+    "Data": {
+      "X": 970,
+      "Y": 500
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6054,
+    "DelayMs": 8,
+    "Data": {
+      "X": 981,
+      "Y": 498
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6062,
+    "DelayMs": 8,
+    "Data": {
+      "X": 989,
+      "Y": 498
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6070,
+    "DelayMs": 8,
+    "Data": {
+      "X": 996,
+      "Y": 498
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6079,
+    "DelayMs": 9,
+    "Data": {
+      "X": 1001,
+      "Y": 498
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6086,
+    "DelayMs": 7,
+    "Data": {
+      "X": 1007,
+      "Y": 498
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6094,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1010,
+      "Y": 498
+    }
+  },
+  {
+    "EventType": "MouseDown",
+    "Timestamp": 6096,
+    "DelayMs": 2,
+    "Data": {
+      "Button": "Left",
+      "X": 1010,
+      "Y": 498
+    }
+  },
+  {
+    "EventType": "MouseUp",
+    "Timestamp": 6223,
+    "DelayMs": 127,
+    "Data": {
+      "Button": "Left",
+      "X": 1010,
+      "Y": 498
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6270,
+    "DelayMs": 47,
+    "Data": {
+      "X": 1013,
+      "Y": 499
+    }
+  },
+  {
+    "EventType": "MouseDown",
+    "Timestamp": 6311,
+    "DelayMs": 41,
+    "Data": {
+      "Button": "Left",
+      "X": 1013,
+      "Y": 499
+    }
+  },
+  {
+    "EventType": "MouseDown",
+    "Timestamp": 6374,
+    "DelayMs": 63,
+    "Data": {
+      "Button": "Right",
+      "X": 1013,
+      "Y": 499
+    }
+  },
+  {
+    "EventType": "MouseUp",
+    "Timestamp": 6415,
+    "DelayMs": 41,
+    "Data": {
+      "Button": "Left",
+      "X": 1013,
+      "Y": 499
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6438,
+    "DelayMs": 23,
+    "Data": {
+      "X": 1013,
+      "Y": 500
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6510,
+    "DelayMs": 72,
+    "Data": {
+      "X": 1010,
+      "Y": 500
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6519,
+    "DelayMs": 9,
+    "Data": {
+      "X": 1008,
+      "Y": 501
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6526,
+    "DelayMs": 7,
+    "Data": {
+      "X": 1008,
+      "Y": 504
+    }
+  },
+  {
+    "EventType": "MouseUp",
+    "Timestamp": 6591,
+    "DelayMs": 65,
+    "Data": {
+      "Button": "Right",
+      "X": 1008,
+      "Y": 504
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6598,
+    "DelayMs": 7,
+    "Data": {
+      "X": 1005,
+      "Y": 506
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6622,
+    "DelayMs": 24,
+    "Data": {
+      "X": 1005,
+      "Y": 508
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6686,
+    "DelayMs": 64,
+    "Data": {
+      "X": 1007,
+      "Y": 509
+    }
+  },
+  {
+    "EventType": "MouseDown",
+    "Timestamp": 6711,
+    "DelayMs": 25,
+    "Data": {
+      "Button": "Left",
+      "X": 1007,
+      "Y": 509
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6718,
+    "DelayMs": 7,
+    "Data": {
+      "X": 1008,
+      "Y": 510
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6726,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1008,
+      "Y": 517
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6735,
+    "DelayMs": 9,
+    "Data": {
+      "X": 1007,
+      "Y": 525
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6742,
+    "DelayMs": 7,
+    "Data": {
+      "X": 1007,
+      "Y": 532
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6750,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1006,
+      "Y": 538
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6758,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1004,
+      "Y": 543
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6766,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1004,
+      "Y": 546
+    }
+  },
+  {
+    "EventType": "MouseUp",
+    "Timestamp": 6871,
+    "DelayMs": 105,
+    "Data": {
+      "Button": "Left",
+      "X": 1004,
+      "Y": 546
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6878,
+    "DelayMs": 7,
+    "Data": {
+      "X": 1002,
+      "Y": 550
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6887,
+    "DelayMs": 9,
+    "Data": {
+      "X": 1002,
+      "Y": 551
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6894,
+    "DelayMs": 7,
+    "Data": {
+      "X": 1002,
+      "Y": 554
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6902,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1000,
+      "Y": 560
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6910,
+    "DelayMs": 8,
+    "Data": {
+      "X": 996,
+      "Y": 568
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6918,
+    "DelayMs": 8,
+    "Data": {
+      "X": 994,
+      "Y": 579
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6926,
+    "DelayMs": 8,
+    "Data": {
+      "X": 990,
+      "Y": 590
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6935,
+    "DelayMs": 9,
+    "Data": {
+      "X": 985,
+      "Y": 607
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6942,
+    "DelayMs": 7,
+    "Data": {
+      "X": 977,
+      "Y": 628
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6950,
+    "DelayMs": 8,
+    "Data": {
+      "X": 966,
+      "Y": 653
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6958,
+    "DelayMs": 8,
+    "Data": {
+      "X": 952,
+      "Y": 684
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6966,
+    "DelayMs": 8,
+    "Data": {
+      "X": 940,
+      "Y": 718
+    }
+  },
+  {
+    "EventType": "MouseDown",
+    "Timestamp": 6968,
+    "DelayMs": 2,
+    "Data": {
+      "Button": "Right",
+      "X": 940,
+      "Y": 718
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6974,
+    "DelayMs": 6,
+    "Data": {
+      "X": 932,
+      "Y": 752
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6983,
+    "DelayMs": 9,
+    "Data": {
+      "X": 927,
+      "Y": 773
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6990,
+    "DelayMs": 7,
+    "Data": {
+      "X": 921,
+      "Y": 797
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 6999,
+    "DelayMs": 9,
+    "Data": {
+      "X": 916,
+      "Y": 814
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7008,
+    "DelayMs": 9,
+    "Data": {
+      "X": 912,
+      "Y": 826
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7014,
+    "DelayMs": 6,
+    "Data": {
+      "X": 910,
+      "Y": 829
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7022,
+    "DelayMs": 8,
+    "Data": {
+      "X": 908,
+      "Y": 832
+    }
+  },
+  {
+    "EventType": "MouseUp",
+    "Timestamp": 7047,
+    "DelayMs": 25,
+    "Data": {
+      "Button": "Right",
+      "X": 908,
+      "Y": 832
+    }
+  },
+  {
+    "EventType": "MouseDown",
+    "Timestamp": 7135,
+    "DelayMs": 88,
+    "Data": {
+      "Button": "Right",
+      "X": 908,
+      "Y": 832
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7215,
+    "DelayMs": 80,
+    "Data": {
+      "X": 909,
+      "Y": 836
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7222,
+    "DelayMs": 7,
+    "Data": {
+      "X": 910,
+      "Y": 837
+    }
+  },
+  {
+    "EventType": "MouseUp",
+    "Timestamp": 7239,
+    "DelayMs": 17,
+    "Data": {
+      "Button": "Right",
+      "X": 910,
+      "Y": 837
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7342,
+    "DelayMs": 103,
+    "Data": {
+      "X": 912,
+      "Y": 839
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7360,
+    "DelayMs": 18,
+    "Data": {
+      "X": 911,
+      "Y": 845
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7366,
+    "DelayMs": 6,
+    "Data": {
+      "X": 911,
+      "Y": 846
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7374,
+    "DelayMs": 8,
+    "Data": {
+      "X": 910,
+      "Y": 851
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7382,
+    "DelayMs": 8,
+    "Data": {
+      "X": 908,
+      "Y": 855
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7390,
+    "DelayMs": 8,
+    "Data": {
+      "X": 904,
+      "Y": 858
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7398,
+    "DelayMs": 8,
+    "Data": {
+      "X": 903,
+      "Y": 862
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7406,
+    "DelayMs": 8,
+    "Data": {
+      "X": 899,
+      "Y": 863
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7414,
+    "DelayMs": 8,
+    "Data": {
+      "X": 897,
+      "Y": 867
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7422,
+    "DelayMs": 8,
+    "Data": {
+      "X": 892,
+      "Y": 871
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7430,
+    "DelayMs": 8,
+    "Data": {
+      "X": 886,
+      "Y": 874
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7438,
+    "DelayMs": 8,
+    "Data": {
+      "X": 875,
+      "Y": 883
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7446,
+    "DelayMs": 8,
+    "Data": {
+      "X": 864,
+      "Y": 890
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7454,
+    "DelayMs": 8,
+    "Data": {
+      "X": 855,
+      "Y": 897
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7462,
+    "DelayMs": 8,
+    "Data": {
+      "X": 837,
+      "Y": 904
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7470,
+    "DelayMs": 8,
+    "Data": {
+      "X": 825,
+      "Y": 911
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7478,
+    "DelayMs": 8,
+    "Data": {
+      "X": 810,
+      "Y": 921
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7486,
+    "DelayMs": 8,
+    "Data": {
+      "X": 795,
+      "Y": 931
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7494,
+    "DelayMs": 8,
+    "Data": {
+      "X": 777,
+      "Y": 939
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7503,
+    "DelayMs": 9,
+    "Data": {
+      "X": 766,
+      "Y": 946
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7510,
+    "DelayMs": 7,
+    "Data": {
+      "X": 754,
+      "Y": 953
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7519,
+    "DelayMs": 9,
+    "Data": {
+      "X": 748,
+      "Y": 959
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7526,
+    "DelayMs": 7,
+    "Data": {
+      "X": 741,
+      "Y": 961
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7534,
+    "DelayMs": 8,
+    "Data": {
+      "X": 735,
+      "Y": 963
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7542,
+    "DelayMs": 8,
+    "Data": {
+      "X": 734,
+      "Y": 964
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7566,
+    "DelayMs": 24,
+    "Data": {
+      "X": 730,
+      "Y": 966
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7574,
+    "DelayMs": 8,
+    "Data": {
+      "X": 729,
+      "Y": 967
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7582,
+    "DelayMs": 8,
+    "Data": {
+      "X": 728,
+      "Y": 968
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7590,
+    "DelayMs": 8,
+    "Data": {
+      "X": 726,
+      "Y": 972
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7598,
+    "DelayMs": 8,
+    "Data": {
+      "X": 723,
+      "Y": 975
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7606,
+    "DelayMs": 8,
+    "Data": {
+      "X": 717,
+      "Y": 979
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7614,
+    "DelayMs": 8,
+    "Data": {
+      "X": 711,
+      "Y": 985
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7622,
+    "DelayMs": 8,
+    "Data": {
+      "X": 706,
+      "Y": 988
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7630,
+    "DelayMs": 8,
+    "Data": {
+      "X": 700,
+      "Y": 990
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7638,
+    "DelayMs": 8,
+    "Data": {
+      "X": 694,
+      "Y": 994
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7646,
+    "DelayMs": 8,
+    "Data": {
+      "X": 689,
+      "Y": 996
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7654,
+    "DelayMs": 8,
+    "Data": {
+      "X": 681,
+      "Y": 1000
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7662,
+    "DelayMs": 8,
+    "Data": {
+      "X": 675,
+      "Y": 1002
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7671,
+    "DelayMs": 9,
+    "Data": {
+      "X": 674,
+      "Y": 1003
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7679,
+    "DelayMs": 8,
+    "Data": {
+      "X": 673,
+      "Y": 1004
+    }
+  },
+  {
+    "EventType": "MouseDown",
+    "Timestamp": 7681,
+    "DelayMs": 2,
+    "Data": {
+      "Button": "Left",
+      "X": 673,
+      "Y": 1004
+    }
+  },
+  {
+    "EventType": "MouseUp",
+    "Timestamp": 7823,
+    "DelayMs": 142,
+    "Data": {
+      "Button": "Left",
+      "X": 673,
+      "Y": 1004
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7894,
+    "DelayMs": 71,
+    "Data": {
+      "X": 673,
+      "Y": 1007
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7902,
+    "DelayMs": 8,
+    "Data": {
+      "X": 673,
+      "Y": 1009
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7910,
+    "DelayMs": 8,
+    "Data": {
+      "X": 673,
+      "Y": 1012
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7918,
+    "DelayMs": 8,
+    "Data": {
+      "X": 673,
+      "Y": 1013
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7927,
+    "DelayMs": 9,
+    "Data": {
+      "X": 671,
+      "Y": 1016
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7950,
+    "DelayMs": 23,
+    "Data": {
+      "X": 671,
+      "Y": 1018
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7966,
+    "DelayMs": 16,
+    "Data": {
+      "X": 671,
+      "Y": 1021
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7983,
+    "DelayMs": 17,
+    "Data": {
+      "X": 671,
+      "Y": 1022
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7990,
+    "DelayMs": 7,
+    "Data": {
+      "X": 670,
+      "Y": 1025
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 7998,
+    "DelayMs": 8,
+    "Data": {
+      "X": 668,
+      "Y": 1027
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 8014,
+    "DelayMs": 16,
+    "Data": {
+      "X": 667,
+      "Y": 1030
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 8022,
+    "DelayMs": 8,
+    "Data": {
+      "X": 665,
+      "Y": 1031
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 8030,
+    "DelayMs": 8,
+    "Data": {
+      "X": 664,
+      "Y": 1033
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 8038,
+    "DelayMs": 8,
+    "Data": {
+      "X": 662,
+      "Y": 1036
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 8046,
+    "DelayMs": 8,
+    "Data": {
+      "X": 662,
+      "Y": 1039
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 8054,
+    "DelayMs": 8,
+    "Data": {
+      "X": 661,
+      "Y": 1041
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 8062,
+    "DelayMs": 8,
+    "Data": {
+      "X": 659,
+      "Y": 1042
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 8070,
+    "DelayMs": 8,
+    "Data": {
+      "X": 659,
+      "Y": 1045
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 8182,
+    "DelayMs": 112,
+    "Data": {
+      "X": 658,
+      "Y": 1046
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 8367,
+    "DelayMs": 185,
+    "Data": {
+      "X": 658,
+      "Y": 1049
+    }
+  },
+  {
+    "EventType": "MouseDown",
+    "Timestamp": 8447,
+    "DelayMs": 80,
+    "Data": {
+      "Button": "Left",
+      "X": 658,
+      "Y": 1049
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 8454,
+    "DelayMs": 7,
+    "Data": {
+      "X": 658,
+      "Y": 1053
+    }
+  },
+  {
+    "EventType": "MouseUp",
+    "Timestamp": 8550,
+    "DelayMs": 96,
+    "Data": {
+      "Button": "Left",
+      "X": 658,
+      "Y": 1053
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 8742,
+    "DelayMs": 192,
+    "Data": {
+      "X": 656,
+      "Y": 1054
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 8822,
+    "DelayMs": 80,
+    "Data": {
+      "X": 655,
+      "Y": 1054
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 8934,
+    "DelayMs": 112,
+    "Data": {
+      "X": 655,
+      "Y": 1052
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 9103,
+    "DelayMs": 169,
+    "Data": {
+      "X": 657,
+      "Y": 1049
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 9222,
+    "DelayMs": 119,
+    "Data": {
+      "X": 658,
+      "Y": 1048
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 9270,
+    "DelayMs": 48,
+    "Data": {
+      "X": 658,
+      "Y": 1046
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 10379,
+    "DelayMs": 1109,
+    "Data": {
+      "Key": "H",
+      "KeyValue": 72
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 10403,
+    "DelayMs": 24,
+    "Data": {
+      "Key": "A",
+      "KeyValue": 65
+    }
+  },
+  {
+    "EventType": "KeyUp",
+    "Timestamp": 10517,
+    "DelayMs": 114,
+    "Data": {
+      "Key": "H",
+      "KeyValue": 72
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 10520,
+    "DelayMs": 3,
+    "Data": {
+      "Key": "F",
+      "KeyValue": 70
+    }
+  },
+  {
+    "EventType": "KeyUp",
+    "Timestamp": 10562,
+    "DelayMs": 42,
+    "Data": {
+      "Key": "A",
+      "KeyValue": 65
+    }
+  },
+  {
+    "EventType": "KeyUp",
+    "Timestamp": 10661,
+    "DelayMs": 99,
+    "Data": {
+      "Key": "F",
+      "KeyValue": 70
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 10680,
+    "DelayMs": 19,
+    "Data": {
+      "Key": "Space",
+      "KeyValue": 32
+    }
+  },
+  {
+    "EventType": "KeyUp",
+    "Timestamp": 10824,
+    "DelayMs": 144,
+    "Data": {
+      "Key": "Space",
+      "KeyValue": 32
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 11275,
+    "DelayMs": 451,
+    "Data": {
+      "Key": "LShiftKey",
+      "KeyValue": 160
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 11565,
+    "DelayMs": 290,
+    "Data": {
+      "Key": "H",
+      "KeyValue": 72,
+      "Modifiers": "Shift"
+    }
+  },
+  {
+    "EventType": "KeyUp",
+    "Timestamp": 11658,
+    "DelayMs": 93,
+    "Data": {
+      "Key": "H",
+      "KeyValue": 72,
+      "Modifiers": "Shift"
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 11706,
+    "DelayMs": 48,
+    "Data": {
+      "Key": "H",
+      "KeyValue": 72,
+      "Modifiers": "Shift"
+    }
+  },
+  {
+    "EventType": "KeyUp",
+    "Timestamp": 11805,
+    "DelayMs": 99,
+    "Data": {
+      "Key": "H",
+      "KeyValue": 72,
+      "Modifiers": "Shift"
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 12644,
+    "DelayMs": 839,
+    "Data": {
+      "Key": "Oemplus",
+      "KeyValue": 187,
+      "Modifiers": "Shift"
+    }
+  },
+  {
+    "EventType": "KeyUp",
+    "Timestamp": 12776,
+    "DelayMs": 132,
+    "Data": {
+      "Key": "Oemplus",
+      "KeyValue": 187,
+      "Modifiers": "Shift"
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 12978,
+    "DelayMs": 202,
+    "Data": {
+      "Key": "U",
+      "KeyValue": 85,
+      "Modifiers": "Shift"
+    }
+  },
+  {
+    "EventType": "KeyUp",
+    "Timestamp": 13077,
+    "DelayMs": 99,
+    "Data": {
+      "Key": "U",
+      "KeyValue": 85,
+      "Modifiers": "Shift"
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 13160,
+    "DelayMs": 83,
+    "Data": {
+      "Key": "U",
+      "KeyValue": 85,
+      "Modifiers": "Shift"
+    }
+  },
+  {
+    "EventType": "KeyUp",
+    "Timestamp": 13233,
+    "DelayMs": 73,
+    "Data": {
+      "Key": "U",
+      "KeyValue": 85,
+      "Modifiers": "Shift"
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 13490,
+    "DelayMs": 257,
+    "Data": {
+      "Key": "A",
+      "KeyValue": 65,
+      "Modifiers": "Shift"
+    }
+  },
+  {
+    "EventType": "KeyUp",
+    "Timestamp": 13618,
+    "DelayMs": 128,
+    "Data": {
+      "Key": "LShiftKey",
+      "KeyValue": 160,
+      "Modifiers": "Shift"
+    }
+  },
+  {
+    "EventType": "KeyUp",
+    "Timestamp": 13659,
+    "DelayMs": 41,
+    "Data": {
+      "Key": "A",
+      "KeyValue": 65
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 13757,
+    "DelayMs": 98,
+    "Data": {
+      "Key": "Space",
+      "KeyValue": 32
+    }
+  },
+  {
+    "EventType": "KeyUp",
+    "Timestamp": 13856,
+    "DelayMs": 99,
+    "Data": {
+      "Key": "Space",
+      "KeyValue": 32
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 14281,
+    "DelayMs": 425,
+    "Data": {
+      "Key": "Oemplus",
+      "KeyValue": 187
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 14811,
+    "DelayMs": 530,
+    "Data": {
+      "Key": "Oemplus",
+      "KeyValue": 187
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 14842,
+    "DelayMs": 31,
+    "Data": {
+      "Key": "Oemplus",
+      "KeyValue": 187
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 14872,
+    "DelayMs": 30,
+    "Data": {
+      "Key": "Oemplus",
+      "KeyValue": 187
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 14903,
+    "DelayMs": 31,
+    "Data": {
+      "Key": "Oemplus",
+      "KeyValue": 187
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 14933,
+    "DelayMs": 30,
+    "Data": {
+      "Key": "Oemplus",
+      "KeyValue": 187
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 14963,
+    "DelayMs": 30,
+    "Data": {
+      "Key": "Oemplus",
+      "KeyValue": 187
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 14995,
+    "DelayMs": 32,
+    "Data": {
+      "Key": "Oemplus",
+      "KeyValue": 187
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 15026,
+    "DelayMs": 31,
+    "Data": {
+      "Key": "Oemplus",
+      "KeyValue": 187
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 15057,
+    "DelayMs": 31,
+    "Data": {
+      "Key": "Oemplus",
+      "KeyValue": 187
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 15088,
+    "DelayMs": 31,
+    "Data": {
+      "Key": "Oemplus",
+      "KeyValue": 187
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 15118,
+    "DelayMs": 30,
+    "Data": {
+      "Key": "Oemplus",
+      "KeyValue": 187
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 15148,
+    "DelayMs": 30,
+    "Data": {
+      "Key": "Oemplus",
+      "KeyValue": 187
+    }
+  },
+  {
+    "EventType": "KeyUp",
+    "Timestamp": 15171,
+    "DelayMs": 23,
+    "Data": {
+      "Key": "Oemplus",
+      "KeyValue": 187
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 15568,
+    "DelayMs": 397,
+    "Data": {
+      "Key": "Back",
+      "KeyValue": 8
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 16087,
+    "DelayMs": 519,
+    "Data": {
+      "Key": "Back",
+      "KeyValue": 8
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 16120,
+    "DelayMs": 33,
+    "Data": {
+      "Key": "Back",
+      "KeyValue": 8
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 16150,
+    "DelayMs": 30,
+    "Data": {
+      "Key": "Back",
+      "KeyValue": 8
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 16180,
+    "DelayMs": 30,
+    "Data": {
+      "Key": "Back",
+      "KeyValue": 8
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 16211,
+    "DelayMs": 31,
+    "Data": {
+      "Key": "Back",
+      "KeyValue": 8
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 16241,
+    "DelayMs": 30,
+    "Data": {
+      "Key": "Back",
+      "KeyValue": 8
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 16271,
+    "DelayMs": 30,
+    "Data": {
+      "Key": "Back",
+      "KeyValue": 8
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 16302,
+    "DelayMs": 31,
+    "Data": {
+      "Key": "Back",
+      "KeyValue": 8
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 16332,
+    "DelayMs": 30,
+    "Data": {
+      "Key": "Back",
+      "KeyValue": 8
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 16364,
+    "DelayMs": 32,
+    "Data": {
+      "Key": "Back",
+      "KeyValue": 8
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 16419,
+    "DelayMs": 55,
+    "Data": {
+      "Key": "Back",
+      "KeyValue": 8
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 16450,
+    "DelayMs": 31,
+    "Data": {
+      "Key": "Back",
+      "KeyValue": 8
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 16480,
+    "DelayMs": 30,
+    "Data": {
+      "Key": "Back",
+      "KeyValue": 8
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 16511,
+    "DelayMs": 31,
+    "Data": {
+      "Key": "Back",
+      "KeyValue": 8
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 16541,
+    "DelayMs": 30,
+    "Data": {
+      "Key": "Back",
+      "KeyValue": 8
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 16570,
+    "DelayMs": 29,
+    "Data": {
+      "Key": "Back",
+      "KeyValue": 8
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 16603,
+    "DelayMs": 33,
+    "Data": {
+      "Key": "Back",
+      "KeyValue": 8
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 16633,
+    "DelayMs": 30,
+    "Data": {
+      "Key": "Back",
+      "KeyValue": 8
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 16663,
+    "DelayMs": 30,
+    "Data": {
+      "Key": "Back",
+      "KeyValue": 8
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 16694,
+    "DelayMs": 31,
+    "Data": {
+      "Key": "Back",
+      "KeyValue": 8
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 16724,
+    "DelayMs": 30,
+    "Data": {
+      "Key": "Back",
+      "KeyValue": 8
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 16754,
+    "DelayMs": 30,
+    "Data": {
+      "Key": "Back",
+      "KeyValue": 8
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 16785,
+    "DelayMs": 31,
+    "Data": {
+      "Key": "Back",
+      "KeyValue": 8
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 16815,
+    "DelayMs": 30,
+    "Data": {
+      "Key": "Back",
+      "KeyValue": 8
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 16846,
+    "DelayMs": 31,
+    "Data": {
+      "Key": "Back",
+      "KeyValue": 8
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 16876,
+    "DelayMs": 30,
+    "Data": {
+      "Key": "Back",
+      "KeyValue": 8
+    }
+  },
+  {
+    "EventType": "KeyDown",
+    "Timestamp": 16919,
+    "DelayMs": 43,
+    "Data": {
+      "Key": "Back",
+      "KeyValue": 8
+    }
+  },
+  {
+    "EventType": "KeyUp",
+    "Timestamp": 16942,
+    "DelayMs": 23,
+    "Data": {
+      "Key": "Back",
+      "KeyValue": 8
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18126,
+    "DelayMs": 1184,
+    "Data": {
+      "X": 658,
+      "Y": 1043
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18134,
+    "DelayMs": 8,
+    "Data": {
+      "X": 659,
+      "Y": 1040
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18142,
+    "DelayMs": 8,
+    "Data": {
+      "X": 662,
+      "Y": 1036
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18150,
+    "DelayMs": 8,
+    "Data": {
+      "X": 671,
+      "Y": 1028
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18158,
+    "DelayMs": 8,
+    "Data": {
+      "X": 680,
+      "Y": 1016
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18166,
+    "DelayMs": 8,
+    "Data": {
+      "X": 696,
+      "Y": 1000
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18174,
+    "DelayMs": 8,
+    "Data": {
+      "X": 714,
+      "Y": 987
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18182,
+    "DelayMs": 8,
+    "Data": {
+      "X": 726,
+      "Y": 978
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18190,
+    "DelayMs": 8,
+    "Data": {
+      "X": 738,
+      "Y": 971
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18198,
+    "DelayMs": 8,
+    "Data": {
+      "X": 744,
+      "Y": 965
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18206,
+    "DelayMs": 8,
+    "Data": {
+      "X": 749,
+      "Y": 961
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18214,
+    "DelayMs": 8,
+    "Data": {
+      "X": 755,
+      "Y": 959
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18222,
+    "DelayMs": 8,
+    "Data": {
+      "X": 757,
+      "Y": 956
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18238,
+    "DelayMs": 16,
+    "Data": {
+      "X": 760,
+      "Y": 956
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18246,
+    "DelayMs": 8,
+    "Data": {
+      "X": 761,
+      "Y": 956
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18254,
+    "DelayMs": 8,
+    "Data": {
+      "X": 764,
+      "Y": 954
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18262,
+    "DelayMs": 8,
+    "Data": {
+      "X": 766,
+      "Y": 953
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18270,
+    "DelayMs": 8,
+    "Data": {
+      "X": 767,
+      "Y": 951
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18278,
+    "DelayMs": 8,
+    "Data": {
+      "X": 770,
+      "Y": 951
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18286,
+    "DelayMs": 8,
+    "Data": {
+      "X": 772,
+      "Y": 948
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18406,
+    "DelayMs": 120,
+    "Data": {
+      "X": 773,
+      "Y": 947
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18430,
+    "DelayMs": 24,
+    "Data": {
+      "X": 775,
+      "Y": 945
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18727,
+    "DelayMs": 297,
+    "Data": {
+      "X": 775,
+      "Y": 947
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18734,
+    "DelayMs": 7,
+    "Data": {
+      "X": 776,
+      "Y": 949
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18742,
+    "DelayMs": 8,
+    "Data": {
+      "X": 778,
+      "Y": 950
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18750,
+    "DelayMs": 8,
+    "Data": {
+      "X": 778,
+      "Y": 953
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18774,
+    "DelayMs": 24,
+    "Data": {
+      "X": 778,
+      "Y": 956
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18782,
+    "DelayMs": 8,
+    "Data": {
+      "X": 778,
+      "Y": 958
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18790,
+    "DelayMs": 8,
+    "Data": {
+      "X": 778,
+      "Y": 961
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18798,
+    "DelayMs": 8,
+    "Data": {
+      "X": 778,
+      "Y": 962
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18814,
+    "DelayMs": 16,
+    "Data": {
+      "X": 778,
+      "Y": 965
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18830,
+    "DelayMs": 16,
+    "Data": {
+      "X": 777,
+      "Y": 966
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18846,
+    "DelayMs": 16,
+    "Data": {
+      "X": 777,
+      "Y": 970
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18854,
+    "DelayMs": 8,
+    "Data": {
+      "X": 776,
+      "Y": 971
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18862,
+    "DelayMs": 8,
+    "Data": {
+      "X": 774,
+      "Y": 974
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18870,
+    "DelayMs": 8,
+    "Data": {
+      "X": 772,
+      "Y": 980
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18878,
+    "DelayMs": 8,
+    "Data": {
+      "X": 770,
+      "Y": 985
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18886,
+    "DelayMs": 8,
+    "Data": {
+      "X": 766,
+      "Y": 993
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18894,
+    "DelayMs": 8,
+    "Data": {
+      "X": 764,
+      "Y": 1004
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18902,
+    "DelayMs": 8,
+    "Data": {
+      "X": 760,
+      "Y": 1012
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18910,
+    "DelayMs": 8,
+    "Data": {
+      "X": 758,
+      "Y": 1023
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18918,
+    "DelayMs": 8,
+    "Data": {
+      "X": 756,
+      "Y": 1028
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 18926,
+    "DelayMs": 8,
+    "Data": {
+      "X": 756,
+      "Y": 1034
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19006,
+    "DelayMs": 80,
+    "Data": {
+      "X": 756,
+      "Y": 1037
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19014,
+    "DelayMs": 8,
+    "Data": {
+      "X": 755,
+      "Y": 1038
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19022,
+    "DelayMs": 8,
+    "Data": {
+      "X": 753,
+      "Y": 1040
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19030,
+    "DelayMs": 8,
+    "Data": {
+      "X": 750,
+      "Y": 1040
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19038,
+    "DelayMs": 8,
+    "Data": {
+      "X": 745,
+      "Y": 1042
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19046,
+    "DelayMs": 8,
+    "Data": {
+      "X": 734,
+      "Y": 1046
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19054,
+    "DelayMs": 8,
+    "Data": {
+      "X": 727,
+      "Y": 1048
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19062,
+    "DelayMs": 8,
+    "Data": {
+      "X": 718,
+      "Y": 1052
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19070,
+    "DelayMs": 8,
+    "Data": {
+      "X": 711,
+      "Y": 1054
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19078,
+    "DelayMs": 8,
+    "Data": {
+      "X": 707,
+      "Y": 1057
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19086,
+    "DelayMs": 8,
+    "Data": {
+      "X": 702,
+      "Y": 1059
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19094,
+    "DelayMs": 8,
+    "Data": {
+      "X": 693,
+      "Y": 1065
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19102,
+    "DelayMs": 8,
+    "Data": {
+      "X": 688,
+      "Y": 1069
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19110,
+    "DelayMs": 8,
+    "Data": {
+      "X": 680,
+      "Y": 1071
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19118,
+    "DelayMs": 8,
+    "Data": {
+      "X": 665,
+      "Y": 1078
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19126,
+    "DelayMs": 8,
+    "Data": {
+      "X": 654,
+      "Y": 1081
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19134,
+    "DelayMs": 8,
+    "Data": {
+      "X": 649,
+      "Y": 1080
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19142,
+    "DelayMs": 8,
+    "Data": {
+      "X": 641,
+      "Y": 1079
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19150,
+    "DelayMs": 8,
+    "Data": {
+      "X": 631,
+      "Y": 1082
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19158,
+    "DelayMs": 8,
+    "Data": {
+      "X": 626,
+      "Y": 1080
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19166,
+    "DelayMs": 8,
+    "Data": {
+      "X": 622,
+      "Y": 1079
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19174,
+    "DelayMs": 8,
+    "Data": {
+      "X": 617,
+      "Y": 1079
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19183,
+    "DelayMs": 9,
+    "Data": {
+      "X": 614,
+      "Y": 1079
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19207,
+    "DelayMs": 24,
+    "Data": {
+      "X": 611,
+      "Y": 1079
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19366,
+    "DelayMs": 159,
+    "Data": {
+      "X": 609,
+      "Y": 1079
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19415,
+    "DelayMs": 49,
+    "Data": {
+      "X": 609,
+      "Y": 1076
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19430,
+    "DelayMs": 15,
+    "Data": {
+      "X": 609,
+      "Y": 1075
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19446,
+    "DelayMs": 16,
+    "Data": {
+      "X": 609,
+      "Y": 1071
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19462,
+    "DelayMs": 16,
+    "Data": {
+      "X": 609,
+      "Y": 1070
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19478,
+    "DelayMs": 16,
+    "Data": {
+      "X": 610,
+      "Y": 1067
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19494,
+    "DelayMs": 16,
+    "Data": {
+      "X": 610,
+      "Y": 1066
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19503,
+    "DelayMs": 9,
+    "Data": {
+      "X": 610,
+      "Y": 1062
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19512,
+    "DelayMs": 9,
+    "Data": {
+      "X": 611,
+      "Y": 1061
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19518,
+    "DelayMs": 6,
+    "Data": {
+      "X": 613,
+      "Y": 1060
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19526,
+    "DelayMs": 8,
+    "Data": {
+      "X": 614,
+      "Y": 1057
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19534,
+    "DelayMs": 8,
+    "Data": {
+      "X": 616,
+      "Y": 1055
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19550,
+    "DelayMs": 16,
+    "Data": {
+      "X": 616,
+      "Y": 1052
+    }
+  },
+  {
+    "EventType": "MouseDown",
+    "Timestamp": 19670,
+    "DelayMs": 120,
+    "Data": {
+      "Button": "Left",
+      "X": 616,
+      "Y": 1052
+    }
+  },
+  {
+    "EventType": "MouseUp",
+    "Timestamp": 19775,
+    "DelayMs": 105,
+    "Data": {
+      "Button": "Left",
+      "X": 616,
+      "Y": 1052
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19942,
+    "DelayMs": 167,
+    "Data": {
+      "X": 619,
+      "Y": 1052
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19950,
+    "DelayMs": 8,
+    "Data": {
+      "X": 620,
+      "Y": 1052
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19958,
+    "DelayMs": 8,
+    "Data": {
+      "X": 623,
+      "Y": 1052
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19966,
+    "DelayMs": 8,
+    "Data": {
+      "X": 629,
+      "Y": 1050
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19974,
+    "DelayMs": 8,
+    "Data": {
+      "X": 637,
+      "Y": 1046
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19982,
+    "DelayMs": 8,
+    "Data": {
+      "X": 648,
+      "Y": 1044
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19990,
+    "DelayMs": 8,
+    "Data": {
+      "X": 653,
+      "Y": 1040
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 19998,
+    "DelayMs": 8,
+    "Data": {
+      "X": 659,
+      "Y": 1037
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20006,
+    "DelayMs": 8,
+    "Data": {
+      "X": 664,
+      "Y": 1033
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20014,
+    "DelayMs": 8,
+    "Data": {
+      "X": 673,
+      "Y": 1027
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20022,
+    "DelayMs": 8,
+    "Data": {
+      "X": 684,
+      "Y": 1022
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20030,
+    "DelayMs": 8,
+    "Data": {
+      "X": 689,
+      "Y": 1022
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20038,
+    "DelayMs": 8,
+    "Data": {
+      "X": 697,
+      "Y": 1020
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20046,
+    "DelayMs": 8,
+    "Data": {
+      "X": 708,
+      "Y": 1016
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20055,
+    "DelayMs": 9,
+    "Data": {
+      "X": 716,
+      "Y": 1014
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20062,
+    "DelayMs": 7,
+    "Data": {
+      "X": 730,
+      "Y": 1009
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20070,
+    "DelayMs": 8,
+    "Data": {
+      "X": 744,
+      "Y": 1007
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20078,
+    "DelayMs": 8,
+    "Data": {
+      "X": 759,
+      "Y": 1002
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20086,
+    "DelayMs": 8,
+    "Data": {
+      "X": 769,
+      "Y": 1002
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20094,
+    "DelayMs": 8,
+    "Data": {
+      "X": 780,
+      "Y": 1000
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20102,
+    "DelayMs": 8,
+    "Data": {
+      "X": 794,
+      "Y": 995
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20110,
+    "DelayMs": 8,
+    "Data": {
+      "X": 808,
+      "Y": 993
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20118,
+    "DelayMs": 8,
+    "Data": {
+      "X": 823,
+      "Y": 988
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20126,
+    "DelayMs": 8,
+    "Data": {
+      "X": 840,
+      "Y": 985
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20134,
+    "DelayMs": 8,
+    "Data": {
+      "X": 858,
+      "Y": 980
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20143,
+    "DelayMs": 9,
+    "Data": {
+      "X": 874,
+      "Y": 980
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20150,
+    "DelayMs": 7,
+    "Data": {
+      "X": 885,
+      "Y": 980
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20158,
+    "DelayMs": 8,
+    "Data": {
+      "X": 899,
+      "Y": 978
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20166,
+    "DelayMs": 8,
+    "Data": {
+      "X": 910,
+      "Y": 976
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20174,
+    "DelayMs": 8,
+    "Data": {
+      "X": 917,
+      "Y": 976
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20182,
+    "DelayMs": 8,
+    "Data": {
+      "X": 927,
+      "Y": 976
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20190,
+    "DelayMs": 8,
+    "Data": {
+      "X": 935,
+      "Y": 976
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20198,
+    "DelayMs": 8,
+    "Data": {
+      "X": 942,
+      "Y": 976
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20206,
+    "DelayMs": 8,
+    "Data": {
+      "X": 947,
+      "Y": 976
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20214,
+    "DelayMs": 8,
+    "Data": {
+      "X": 955,
+      "Y": 976
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20222,
+    "DelayMs": 8,
+    "Data": {
+      "X": 965,
+      "Y": 977
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20230,
+    "DelayMs": 8,
+    "Data": {
+      "X": 976,
+      "Y": 979
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20238,
+    "DelayMs": 8,
+    "Data": {
+      "X": 990,
+      "Y": 981
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20246,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1007,
+      "Y": 981
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20254,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1024,
+      "Y": 984
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20262,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1044,
+      "Y": 984
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20270,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1061,
+      "Y": 986
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20278,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1085,
+      "Y": 989
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20286,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1109,
+      "Y": 992
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20294,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1135,
+      "Y": 994
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20302,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1159,
+      "Y": 997
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20310,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1179,
+      "Y": 999
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20318,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1196,
+      "Y": 999
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20326,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1210,
+      "Y": 1002
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20334,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1218,
+      "Y": 1004
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20342,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1225,
+      "Y": 1004
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20350,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1231,
+      "Y": 1005
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20358,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1234,
+      "Y": 1005
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20367,
+    "DelayMs": 9,
+    "Data": {
+      "X": 1236,
+      "Y": 1007
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20374,
+    "DelayMs": 7,
+    "Data": {
+      "X": 1237,
+      "Y": 1008
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20455,
+    "DelayMs": 81,
+    "Data": {
+      "X": 1237,
+      "Y": 1010
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20462,
+    "DelayMs": 7,
+    "Data": {
+      "X": 1237,
+      "Y": 1013
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20478,
+    "DelayMs": 16,
+    "Data": {
+      "X": 1237,
+      "Y": 1014
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20486,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1239,
+      "Y": 1019
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20494,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1240,
+      "Y": 1020
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20503,
+    "DelayMs": 9,
+    "Data": {
+      "X": 1240,
+      "Y": 1024
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20526,
+    "DelayMs": 23,
+    "Data": {
+      "X": 1240,
+      "Y": 1027
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20534,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1240,
+      "Y": 1028
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20542,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1240,
+      "Y": 1031
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20550,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1240,
+      "Y": 1033
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20558,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1240,
+      "Y": 1036
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20566,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1240,
+      "Y": 1037
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20574,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1240,
+      "Y": 1040
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20582,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1240,
+      "Y": 1041
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20590,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1240,
+      "Y": 1044
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20598,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1240,
+      "Y": 1046
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20606,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1240,
+      "Y": 1049
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 20894,
+    "DelayMs": 288,
+    "Data": {
+      "X": 1240,
+      "Y": 1050
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21046,
+    "DelayMs": 152,
+    "Data": {
+      "X": 1242,
+      "Y": 1053
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21062,
+    "DelayMs": 16,
+    "Data": {
+      "X": 1245,
+      "Y": 1053
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21070,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1250,
+      "Y": 1053
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21078,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1260,
+      "Y": 1053
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21087,
+    "DelayMs": 9,
+    "Data": {
+      "X": 1268,
+      "Y": 1053
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21094,
+    "DelayMs": 7,
+    "Data": {
+      "X": 1283,
+      "Y": 1053
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21102,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1300,
+      "Y": 1053
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21110,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1320,
+      "Y": 1053
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21118,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1337,
+      "Y": 1053
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21126,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1353,
+      "Y": 1053
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21134,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1364,
+      "Y": 1053
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21142,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1367,
+      "Y": 1053
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21150,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1370,
+      "Y": 1053
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21222,
+    "DelayMs": 72,
+    "Data": {
+      "X": 1372,
+      "Y": 1053
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21246,
+    "DelayMs": 24,
+    "Data": {
+      "X": 1375,
+      "Y": 1053
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21254,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1376,
+      "Y": 1053
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21262,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1379,
+      "Y": 1053
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21270,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1380,
+      "Y": 1052
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21278,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1382,
+      "Y": 1050
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21286,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1387,
+      "Y": 1049
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21294,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1392,
+      "Y": 1047
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21302,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1398,
+      "Y": 1043
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21310,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1403,
+      "Y": 1041
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21318,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1409,
+      "Y": 1039
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21326,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1412,
+      "Y": 1038
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21334,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1414,
+      "Y": 1036
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21342,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1417,
+      "Y": 1035
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21358,
+    "DelayMs": 16,
+    "Data": {
+      "X": 1420,
+      "Y": 1033
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21446,
+    "DelayMs": 88,
+    "Data": {
+      "X": 1422,
+      "Y": 1033
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21486,
+    "DelayMs": 40,
+    "Data": {
+      "X": 1425,
+      "Y": 1033
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21510,
+    "DelayMs": 24,
+    "Data": {
+      "X": 1426,
+      "Y": 1033
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21534,
+    "DelayMs": 24,
+    "Data": {
+      "X": 1429,
+      "Y": 1033
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21550,
+    "DelayMs": 16,
+    "Data": {
+      "X": 1433,
+      "Y": 1034
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21574,
+    "DelayMs": 24,
+    "Data": {
+      "X": 1436,
+      "Y": 1035
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21582,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1439,
+      "Y": 1037
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21590,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1441,
+      "Y": 1038
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21598,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1442,
+      "Y": 1040
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21614,
+    "DelayMs": 16,
+    "Data": {
+      "X": 1445,
+      "Y": 1040
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21638,
+    "DelayMs": 24,
+    "Data": {
+      "X": 1448,
+      "Y": 1040
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21646,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1452,
+      "Y": 1042
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21654,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1455,
+      "Y": 1043
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21686,
+    "DelayMs": 32,
+    "Data": {
+      "X": 1458,
+      "Y": 1043
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21719,
+    "DelayMs": 33,
+    "Data": {
+      "X": 1460,
+      "Y": 1043
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21735,
+    "DelayMs": 16,
+    "Data": {
+      "X": 1463,
+      "Y": 1043
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21750,
+    "DelayMs": 15,
+    "Data": {
+      "X": 1464,
+      "Y": 1045
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21766,
+    "DelayMs": 16,
+    "Data": {
+      "X": 1467,
+      "Y": 1045
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21782,
+    "DelayMs": 16,
+    "Data": {
+      "X": 1471,
+      "Y": 1046
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21790,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1474,
+      "Y": 1048
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21831,
+    "DelayMs": 41,
+    "Data": {
+      "X": 1476,
+      "Y": 1050
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 21870,
+    "DelayMs": 39,
+    "Data": {
+      "X": 1479,
+      "Y": 1050
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 22008,
+    "DelayMs": 138,
+    "Data": {
+      "X": 1482,
+      "Y": 1050
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 22030,
+    "DelayMs": 22,
+    "Data": {
+      "X": 1483,
+      "Y": 1051
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 22038,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1485,
+      "Y": 1052
+    }
+  },
+  {
+    "EventType": "MouseDown",
+    "Timestamp": 22135,
+    "DelayMs": 97,
+    "Data": {
+      "Button": "Left",
+      "X": 1485,
+      "Y": 1052
+    }
+  },
+  {
+    "EventType": "MouseUp",
+    "Timestamp": 22255,
+    "DelayMs": 120,
+    "Data": {
+      "Button": "Left",
+      "X": 1485,
+      "Y": 1052
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 22454,
+    "DelayMs": 199,
+    "Data": {
+      "X": 1483,
+      "Y": 1052
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 22638,
+    "DelayMs": 184,
+    "Data": {
+      "X": 1481,
+      "Y": 1052
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 22782,
+    "DelayMs": 144,
+    "Data": {
+      "X": 1478,
+      "Y": 1052
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 22790,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1477,
+      "Y": 1052
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 22798,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1477,
+      "Y": 1049
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 22806,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1475,
+      "Y": 1041
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 22814,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1467,
+      "Y": 1023
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 22823,
+    "DelayMs": 9,
+    "Data": {
+      "X": 1457,
+      "Y": 1005
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 22830,
+    "DelayMs": 7,
+    "Data": {
+      "X": 1449,
+      "Y": 978
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 22839,
+    "DelayMs": 9,
+    "Data": {
+      "X": 1438,
+      "Y": 947
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 22846,
+    "DelayMs": 7,
+    "Data": {
+      "X": 1424,
+      "Y": 920
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 22854,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1416,
+      "Y": 895
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 22862,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1405,
+      "Y": 868
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 22870,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1393,
+      "Y": 837
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 22878,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1385,
+      "Y": 810
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 22886,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1377,
+      "Y": 782
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 22894,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1366,
+      "Y": 752
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 22902,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1355,
+      "Y": 721
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 22910,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1346,
+      "Y": 690
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 22918,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1341,
+      "Y": 660
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 22941,
+    "DelayMs": 23,
+    "Data": {
+      "X": 1335,
+      "Y": 636
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 22943,
+    "DelayMs": 2,
+    "Data": {
+      "X": 1330,
+      "Y": 602
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 22950,
+    "DelayMs": 7,
+    "Data": {
+      "X": 1330,
+      "Y": 588
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 22958,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1328,
+      "Y": 571
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 22966,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1323,
+      "Y": 550
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 22974,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1320,
+      "Y": 530
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 22982,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1315,
+      "Y": 509
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 22990,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1313,
+      "Y": 495
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 22998,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1308,
+      "Y": 484
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23006,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1306,
+      "Y": 473
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23014,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1300,
+      "Y": 464
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23022,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1295,
+      "Y": 456
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23030,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1292,
+      "Y": 451
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23038,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1286,
+      "Y": 442
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23046,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1280,
+      "Y": 437
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23054,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1273,
+      "Y": 428
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23062,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1267,
+      "Y": 419
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23070,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1258,
+      "Y": 413
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23078,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1250,
+      "Y": 409
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23086,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1244,
+      "Y": 407
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23094,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1234,
+      "Y": 400
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23102,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1218,
+      "Y": 390
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23110,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1201,
+      "Y": 383
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23118,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1189,
+      "Y": 378
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23126,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1178,
+      "Y": 371
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23134,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1166,
+      "Y": 361
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23142,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1154,
+      "Y": 354
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23150,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1139,
+      "Y": 347
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23158,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1124,
+      "Y": 337
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23166,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1112,
+      "Y": 325
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23174,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1103,
+      "Y": 318
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23182,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1091,
+      "Y": 309
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23190,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1085,
+      "Y": 303
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23198,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1082,
+      "Y": 299
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23207,
+    "DelayMs": 9,
+    "Data": {
+      "X": 1078,
+      "Y": 296
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23214,
+    "DelayMs": 7,
+    "Data": {
+      "X": 1077,
+      "Y": 292
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23222,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1073,
+      "Y": 292
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23238,
+    "DelayMs": 16,
+    "Data": {
+      "X": 1072,
+      "Y": 289
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23246,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1070,
+      "Y": 287
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23254,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1069,
+      "Y": 286
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23262,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1067,
+      "Y": 285
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23270,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1064,
+      "Y": 283
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23278,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1063,
+      "Y": 282
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23286,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1058,
+      "Y": 278
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23294,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1055,
+      "Y": 278
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23302,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1051,
+      "Y": 277
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23311,
+    "DelayMs": 9,
+    "Data": {
+      "X": 1046,
+      "Y": 273
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23318,
+    "DelayMs": 7,
+    "Data": {
+      "X": 1040,
+      "Y": 271
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23326,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1032,
+      "Y": 267
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23335,
+    "DelayMs": 9,
+    "Data": {
+      "X": 1021,
+      "Y": 265
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23343,
+    "DelayMs": 8,
+    "Data": {
+      "X": 1010,
+      "Y": 260
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23350,
+    "DelayMs": 7,
+    "Data": {
+      "X": 999,
+      "Y": 258
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23358,
+    "DelayMs": 8,
+    "Data": {
+      "X": 988,
+      "Y": 254
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23366,
+    "DelayMs": 8,
+    "Data": {
+      "X": 980,
+      "Y": 254
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23374,
+    "DelayMs": 8,
+    "Data": {
+      "X": 975,
+      "Y": 252
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23382,
+    "DelayMs": 8,
+    "Data": {
+      "X": 967,
+      "Y": 248
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23390,
+    "DelayMs": 8,
+    "Data": {
+      "X": 953,
+      "Y": 245
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23398,
+    "DelayMs": 8,
+    "Data": {
+      "X": 935,
+      "Y": 240
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23406,
+    "DelayMs": 8,
+    "Data": {
+      "X": 909,
+      "Y": 240
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23414,
+    "DelayMs": 8,
+    "Data": {
+      "X": 885,
+      "Y": 238
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23422,
+    "DelayMs": 8,
+    "Data": {
+      "X": 861,
+      "Y": 233
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23430,
+    "DelayMs": 8,
+    "Data": {
+      "X": 844,
+      "Y": 233
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23438,
+    "DelayMs": 8,
+    "Data": {
+      "X": 830,
+      "Y": 230
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23446,
+    "DelayMs": 8,
+    "Data": {
+      "X": 816,
+      "Y": 228
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23454,
+    "DelayMs": 8,
+    "Data": {
+      "X": 802,
+      "Y": 223
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23462,
+    "DelayMs": 8,
+    "Data": {
+      "X": 791,
+      "Y": 221
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23470,
+    "DelayMs": 8,
+    "Data": {
+      "X": 786,
+      "Y": 219
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23478,
+    "DelayMs": 8,
+    "Data": {
+      "X": 784,
+      "Y": 218
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23486,
+    "DelayMs": 8,
+    "Data": {
+      "X": 781,
+      "Y": 216
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23526,
+    "DelayMs": 40,
+    "Data": {
+      "X": 781,
+      "Y": 215
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23542,
+    "DelayMs": 16,
+    "Data": {
+      "X": 780,
+      "Y": 212
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23550,
+    "DelayMs": 8,
+    "Data": {
+      "X": 778,
+      "Y": 210
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23638,
+    "DelayMs": 88,
+    "Data": {
+      "X": 778,
+      "Y": 207
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23646,
+    "DelayMs": 8,
+    "Data": {
+      "X": 778,
+      "Y": 206
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23655,
+    "DelayMs": 9,
+    "Data": {
+      "X": 779,
+      "Y": 203
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23662,
+    "DelayMs": 7,
+    "Data": {
+      "X": 780,
+      "Y": 201
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23671,
+    "DelayMs": 9,
+    "Data": {
+      "X": 783,
+      "Y": 198
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23678,
+    "DelayMs": 7,
+    "Data": {
+      "X": 785,
+      "Y": 194
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23686,
+    "DelayMs": 8,
+    "Data": {
+      "X": 789,
+      "Y": 191
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23694,
+    "DelayMs": 8,
+    "Data": {
+      "X": 790,
+      "Y": 187
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23702,
+    "DelayMs": 8,
+    "Data": {
+      "X": 794,
+      "Y": 186
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23710,
+    "DelayMs": 8,
+    "Data": {
+      "X": 795,
+      "Y": 182
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23726,
+    "DelayMs": 16,
+    "Data": {
+      "X": 797,
+      "Y": 181
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23790,
+    "DelayMs": 64,
+    "Data": {
+      "X": 798,
+      "Y": 180
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23798,
+    "DelayMs": 8,
+    "Data": {
+      "X": 800,
+      "Y": 178
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 23806,
+    "DelayMs": 8,
+    "Data": {
+      "X": 801,
+      "Y": 177
+    }
+  },
+  {
+    "EventType": "MouseDown",
+    "Timestamp": 24111,
+    "DelayMs": 305,
+    "Data": {
+      "Button": "Left",
+      "X": 801,
+      "Y": 177
+    }
+  },
+  {
+    "EventType": "MouseMove",
+    "Timestamp": 24134,
+    "DelayMs": 23,
+    "Data": {
+      "X": 803,
+      "Y": 177
+    }
+  },
+  {
+    "EventType": "MouseUp",
+    "Timestamp": 24230,
+    "DelayMs": 96,
+    "Data": {
+      "Button": "Left",
+      "X": 803,
+      "Y": 177
+    }
+  }
+]

@@ -63,3 +63,23 @@ C:\Users\ADMIN\Downloads\he-dieu-hanh\obj\Debug\net8.0-windows\he dieu hanh.pdb
 C:\Users\ADMIN\Downloads\he-dieu-hanh\obj\Debug\net8.0-windows\he dieu hanh.genruntimeconfig.cache
 C:\Users\ADMIN\Downloads\he-dieu-hanh\obj\Debug\net8.0-windows\ref\he dieu hanh.dll
 C:\Users\ADMIN\Downloads\he-dieu-hanh\obj\Debug\net8.0-windows\he_dieu_hanh.Pages.PageEventLog.resources
+D:\he-dieu-hanh\bin\Debug\net8.0-windows\he dieu hanh.exe
+D:\he-dieu-hanh\bin\Debug\net8.0-windows\he dieu hanh.deps.json
+D:\he-dieu-hanh\bin\Debug\net8.0-windows\he dieu hanh.runtimeconfig.json
+D:\he-dieu-hanh\bin\Debug\net8.0-windows\he dieu hanh.dll
+D:\he-dieu-hanh\bin\Debug\net8.0-windows\he dieu hanh.pdb
+D:\he-dieu-hanh\obj\Debug\net8.0-windows\he_dieu_hanh.MainForm.resources
+D:\he-dieu-hanh\obj\Debug\net8.0-windows\he_dieu_hanh.Pages.PageDashboard.resources
+D:\he-dieu-hanh\obj\Debug\net8.0-windows\he_dieu_hanh.Pages.PageEventLog.resources
+D:\he-dieu-hanh\obj\Debug\net8.0-windows\he_dieu_hanh.Pages.PageSettings.resources
+D:\he-dieu-hanh\obj\Debug\net8.0-windows\he dieu hanh.csproj.GenerateResource.cache
+D:\he-dieu-hanh\obj\Debug\net8.0-windows\he dieu hanh.GeneratedMSBuildEditorConfig.editorconfig
+D:\he-dieu-hanh\obj\Debug\net8.0-windows\he dieu hanh.AssemblyInfoInputs.cache
+D:\he-dieu-hanh\obj\Debug\net8.0-windows\he dieu hanh.AssemblyInfo.cs
+D:\he-dieu-hanh\obj\Debug\net8.0-windows\he dieu hanh.csproj.CoreCompileInputs.cache
+D:\he-dieu-hanh\obj\Debug\net8.0-windows\he dieu hanh.sourcelink.json
+D:\he-dieu-hanh\obj\Debug\net8.0-windows\he dieu hanh.dll
+D:\he-dieu-hanh\obj\Debug\net8.0-windows\refint\he dieu hanh.dll
+D:\he-dieu-hanh\obj\Debug\net8.0-windows\he dieu hanh.pdb
+D:\he-dieu-hanh\obj\Debug\net8.0-windows\he dieu hanh.genruntimeconfig.cache
+D:\he-dieu-hanh\obj\Debug\net8.0-windows\ref\he dieu hanh.dll
