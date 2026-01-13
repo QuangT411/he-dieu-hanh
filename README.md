@@ -81,4 +81,3 @@ Nhóm đã hoàn thành đầy đủ các yêu cầu cốt lõi của đề tài
 [Struct](https://learn.microsoft.com/en-us/windows/win32/api/winuser/ns-winuser-input)
 [Mouse Flags](https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-mouse_event)
 [Key Flags](https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-keybd_event)
-[Microsoft Windown Hook](https://learn.microsoft.com/en-us/windows/win32/winmsg/hooks)
