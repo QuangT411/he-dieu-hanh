@@ -74,7 +74,6 @@ Nhóm đã hoàn thành đầy đủ các yêu cầu cốt lõi của đề tài
 *   Phạm Đức Trung: Giao diện và các nút xử lý các hàm sự kiện
 
 # Tài liệu tham khảo
-<<<<<<< HEAD
 ## Record
 [Microsoft Windown Hook](https://learn.microsoft.com/en-us/windows/win32/winmsg/hooks)
 ## Replay (for win11)
@@ -82,5 +81,4 @@ Nhóm đã hoàn thành đầy đủ các yêu cầu cốt lõi của đề tài
 [Struct](https://learn.microsoft.com/en-us/windows/win32/api/winuser/ns-winuser-input)
 [Mouse Flags](https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-mouse_event)
 [Key Flags](https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-keybd_event)
-=======
 [Microsoft Windown Hook](https://learn.microsoft.com/en-us/windows/win32/winmsg/hooks)
