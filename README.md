@@ -76,6 +76,7 @@ Nhóm đã hoàn thành đầy đủ các yêu cầu cốt lõi của đề tài
 # Tài liệu tham khảo
 ## Record
 [Microsoft Windown Hook](https://learn.microsoft.com/en-us/windows/win32/winmsg/hooks)
+[Get Module Handle](https://learn.microsoft.com/en-us/windows/win32/api/libloaderapi/nf-libloaderapi-getmodulehandlea)
 ## Replay (for win11)
 [Winuser](https://learn.microsoft.com/id-id/windows/win32/api/winuser/nf-winuser-sendinput)
 [Struct](https://learn.microsoft.com/en-us/windows/win32/api/winuser/ns-winuser-input)
